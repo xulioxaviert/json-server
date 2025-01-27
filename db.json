@@ -1,0 +1,1267 @@
+{
+  "users": [
+    {
+      "address": {
+        "geolocation": {
+          "lat": "-37.3159",
+          "long": "81.1496"
+        },
+        "city": "kilcoole",
+        "street": "new road",
+        "number": 7682,
+        "zipcode": "12926-3874"
+      },
+      "userId": 1,
+      "email": "john@gmail.com",
+      "username": "johnd",
+      "password": "m38rmF$",
+      "name": {
+        "firstname": "Pepe",
+        "lastname": "Pepe"
+      },
+      "phone": "1-570-236-7033",
+      "role": "customer",
+      "id": "8c11"
+    },
+    {
+      "address": {
+        "geolocation": {
+          "lat": "-37.3159",
+          "long": "81.1496"
+        },
+        "city": "kilcoole",
+        "street": "Lovers Ln",
+        "number": 7267,
+        "zipcode": "12926-3874"
+      },
+      "userId": 2,
+      "email": "morrison@gmail.com",
+      "username": "mor_2314",
+      "password": "83r5^_",
+      "name": {
+        "firstname": "david",
+        "lastname": "morrison"
+      },
+      "phone": "1-570-236-7033",
+      "role": "customer",
+      "id": "3a24"
+    },
+    {
+      "address": {
+        "geolocation": {
+          "lat": "40.3467",
+          "long": "-30.1310"
+        },
+        "city": "Cullman",
+        "street": "Frances Ct",
+        "number": 86,
+        "zipcode": "29567-1452"
+      },
+      "userId": 3,
+      "email": "kevin@gmail.com",
+      "username": "kevinryan",
+      "password": "kev02937@",
+      "name": {
+        "firstname": "kevin",
+        "lastname": "ryan"
+      },
+      "phone": "1-567-094-1345",
+      "role": "admin",
+      "id": "840e"
+    },
+    {
+      "address": {
+        "geolocation": {
+          "lat": "50.3467",
+          "long": "-20.1310"
+        },
+        "city": "San Antonio",
+        "street": "Hunters Creek Dr",
+        "number": 6454,
+        "zipcode": "98234-1734"
+      },
+      "userId": 4,
+      "email": "don@gmail.com",
+      "username": "donero",
+      "password": "ewedon",
+      "name": {
+        "firstname": "don",
+        "lastname": "romer"
+      },
+      "phone": "1-765-789-6734",
+      "role": "customer",
+      "id": "ac19"
+    },
+    {
+      "address": {
+        "geolocation": {
+          "lat": "40.3467",
+          "long": "-40.1310"
+        },
+        "city": "san Antonio",
+        "street": "adams St",
+        "number": 245,
+        "zipcode": "80796-1234"
+      },
+      "userId": 5,
+      "email": "derek@gmail.com",
+      "username": "derek",
+      "password": "jklg*_56",
+      "name": {
+        "firstname": "derek",
+        "lastname": "powell"
+      },
+      "phone": "1-956-001-1945",
+      "role": "admin",
+      "id": "0b45"
+    },
+    {
+      "address": {
+        "geolocation": {
+          "lat": "20.1677",
+          "long": "-10.6789"
+        },
+        "city": "el paso",
+        "street": "prospect st",
+        "number": 124,
+        "zipcode": "12346-0456"
+      },
+      "userId": 6,
+      "email": "david_r@gmail.com",
+      "username": "david_r",
+      "password": "3478*#54",
+      "name": {
+        "firstname": "david",
+        "lastname": "russell"
+      },
+      "phone": "1-678-345-9856",
+      "role": "customer",
+      "id": "00ba"
+    },
+    {
+      "address": {
+        "geolocation": {
+          "lat": "10.3456",
+          "long": "20.6419"
+        },
+        "city": "fresno",
+        "street": "saddle st",
+        "number": 1342,
+        "zipcode": "96378-0245"
+      },
+      "userId": 7,
+      "email": "miriam@gmail.com",
+      "username": "snyder",
+      "password": "f238&@*$",
+      "name": {
+        "firstname": "miriam",
+        "lastname": "snyder"
+      },
+      "phone": "1-123-943-0563",
+      "role": "customer",
+      "id": "55e7"
+    },
+    {
+      "address": {
+        "geolocation": {
+          "lat": "50.3456",
+          "long": "10.6419"
+        },
+        "city": "mesa",
+        "street": "vally view ln",
+        "number": 1342,
+        "zipcode": "96378-0245"
+      },
+      "userId": 8,
+      "email": "william@gmail.com",
+      "username": "hopkins",
+      "password": "William56$hj",
+      "name": {
+        "firstname": "william",
+        "lastname": "hopkins"
+      },
+      "phone": "1-478-001-0890",
+      "role": "customer",
+      "id": "26b8"
+    },
+    {
+      "address": {
+        "geolocation": {
+          "lat": "40.12456",
+          "long": "20.5419"
+        },
+        "city": "miami",
+        "street": "avondale ave",
+        "number": 345,
+        "zipcode": "96378-0245"
+      },
+      "userId": 9,
+      "email": "kate@gmail.com",
+      "username": "kate_h",
+      "password": "kfejk@*_",
+      "name": {
+        "firstname": "kate",
+        "lastname": "hale"
+      },
+      "phone": "1-678-456-1934",
+      "role": "customer",
+      "id": "b22b"
+    },
+    {
+      "address": {
+        "geolocation": {
+          "lat": "30.24788",
+          "long": "-20.545419"
+        },
+        "city": "fort wayne",
+        "street": "oak lawn ave",
+        "number": 526,
+        "zipcode": "10256-4532"
+      },
+      "userId": 10,
+      "email": "jimmie@gmail.com",
+      "username": "jimmie_k",
+      "password": "klein*#%*",
+      "name": {
+        "firstname": "jimmie",
+        "lastname": "klein"
+      },
+      "phone": "1-104-001-4567",
+      "role": "customer",
+      "id": "f55c"
+    },
+    {
+      "id": "0bdb",
+      "address": {
+        "geolocation": {
+          "lat": "-77.777",
+          "long": "88.898"
+        },
+        "city": "Pepe",
+        "street": "calle",
+        "number": 7682,
+        "zipcode": "12926-3874"
+      },
+      "userId": 15,
+      "email": "john@gmail.com",
+      "username": "johnd",
+      "password": "asterisco",
+      "name": {
+        "firstname": "Pepe",
+        "lastname": "Pepe"
+      },
+      "phone": "1-570-236-7033",
+      "role": "chamo"
+    },
+    {
+      "address": {
+        "geolocation": {
+          "lat": "-50.3159",
+          "long": "90.1496"
+        },
+        "city": "kilcoole",
+        "street": "new road",
+        "number": 7682,
+        "zipcode": "12926-3874"
+      },
+      "userId": 1,
+      "email": "juan@gmail.com",
+      "username": "johnd",
+      "password": "m38rmF$",
+      "name": {
+        "firstname": "Juan",
+        "lastname": "Juan"
+      },
+      "phone": "8-888-888-8888",
+      "role": "admin",
+      "id": "eea9"
+    }
+  ],
+  "carts": [
+    {
+      "cartId": 1,
+      "userId": 3,
+      "date": "2020-03-01T00:00:00.000Z",
+      "products": [
+        {
+          "productId": 15,
+          "quantity": [
+            {
+              "size": "s",
+              "quantity": 1
+            },
+            {
+              "size": "m",
+              "quantity": 2
+            },
+            {
+              "size": "l",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "productId": 2,
+          "quantity": [
+            {
+              "size": "l",
+              "quantity": 1
+            }
+          ]
+        }
+      ],
+      "id": "000d"
+    },
+    {
+      "id": "c8ef",
+      "cartId": 1,
+      "userId": 5,
+      "date": "2020-03-01T00:00:00.000Z",
+      "products": [
+        {
+          "productId": 15,
+          "quantity": [
+            {
+              "size": "s",
+              "quantity": 1
+            },
+            {
+              "size": "m",
+              "quantity": 2
+            },
+            {
+              "size": "l",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "productId": 10,
+          "quantity": [
+            {
+              "size": "U",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "productId": 11,
+          "quantity": [
+            {
+              "size": "U",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "productId": 16,
+          "quantity": [
+            {
+              "size": "s",
+              "quantity": 4
+            },
+            {
+              "size": "m",
+              "quantity": 1
+            },
+            {
+              "size": "l",
+              "quantity": 2
+            },
+            {
+              "size": "xl",
+              "quantity": 2
+            },
+            {
+              "size": "xxl",
+              "quantity": 5
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "products": [
+    {
+      "productId": 1,
+      "title": "Mens Casual Premium Slim Fit T-Shirts",
+      "price": 22.3,
+      "properties": [
+        {
+          "color": "black",
+          "size": [
+            { "size": "xs", "quantity": 5 },
+            { "size": "s", "quantity": 10 },
+            { "size": "m", "quantity": 15 },
+            { "size": "l", "quantity": 20 },
+            { "size": "xl", "quantity": 25 },
+            { "size": "xxl", "quantity": 30 }
+          ],
+          "quantity": 105,
+          "stock": true,
+          "season": "summer",
+          "fabric": "cotton",
+          "fit": "slim",
+          "style": "casual"
+        }
+      ],
+      "type": "composite",
+      "stock": 105,
+      "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, lightweight & soft fabric for breathable and comfortable wearing.",
+      "category": "men's clothing",
+      "image": "https://cdn.pixabay.com/photo/2023/12/20/03/29/men-8458815_1280.jpg",
+      "rating": { "rate": 4.1, "count": 259 },
+      "id": "fff9"
+    },
+    {
+      "productId": 2,
+      "title": "Women's Casual T-Shirts",
+      "price": 19.99,
+      "properties": [
+        {
+          "color": "red",
+          "size": [
+            { "size": "s", "quantity": 12 },
+            { "size": "m", "quantity": 8 },
+            { "size": "l", "quantity": 15 }
+          ],
+          "quantity": 35,
+          "stock": true,
+          "season": "spring",
+          "fabric": "linen",
+          "fit": "loose",
+          "style": "casual"
+        }
+      ],
+      "type": "composite",
+      "stock": 35,
+      "description": "Comfortable and lightweight T-shirts perfect for spring outings.",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+      "rating": { "rate": 4.5, "count": 305 },
+      "id": "fff2"
+    },
+    {
+      "productId": 3,
+      "title": "Stylish Sunglasses",
+      "price": 9.99,
+      "properties": [
+        {
+          "color": "brown",
+          "quantity": 50,
+          "stock": true,
+          "season": "summer",
+          "material": "plastic",
+          "style": "fashion"
+        }
+      ],
+      "type": "simple",
+      "stock": 50,
+      "description": "Trendy sunglasses that combine style and UV protection.",
+      "category": "jewelry",
+      "image": "https://images.pexels.com/photos/30166689/pexels-photo-30166689/free-photo-of-chaqueta-verde-elegante-con-gafas-de-sol.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "rating": { "rate": 4.0, "count": 120 },
+      "id": "fff3"
+    },
+    {
+      "productId": 4,
+      "title": "Leather Laptop Bag",
+      "price": 89.99,
+      "properties": [
+        {
+          "color": "tan",
+          "quantity": 20,
+          "stock": true,
+          "material": "leather",
+          "style": "professional"
+        }
+      ],
+      "type": "simple",
+      "stock": 20,
+      "description": "Durable leather laptop bag with ample storage for professionals.",
+      "category": "electronics",
+      "image": "https://images.pexels.com/photos/936081/pexels-photo-936081.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "rating": { "rate": 4.7, "count": 70 },
+      "id": "fff4"
+    },
+    {
+      "productId": 5,
+      "title": "Wireless Earbuds",
+      "price": 59.99,
+      "properties": [
+        {
+          "color": "black",
+          "quantity": 100,
+          "stock": true,
+          "batteryLife": "8 hours",
+          "style": "tech"
+        }
+      ],
+      "type": "simple",
+      "stock": 100,
+      "description": "High-quality wireless earbuds with excellent sound clarity.",
+      "category": "electronics",
+      "image": "https://images.pexels.com/photos/3780681/pexels-photo-3780681.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "rating": { "rate": 4.4, "count": 150 },
+      "id": "fff5"
+    },
+    {
+      "productId": 6,
+      "title": "Formal Men's Watch",
+      "price": 199.99,
+      "properties": [
+        {
+          "color": "silver",
+          "quantity": 50,
+          "stock": true,
+          "material": "stainless steel",
+          "style": "formal"
+        }
+      ],
+      "type": "simple",
+      "stock": 50,
+      "description": "Elegant formal wristwatch for men with a minimalist design.",
+      "category": "jewelry",
+      "image": "https://images.pexels.com/photos/30372903/pexels-photo-30372903.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "rating": { "rate": 4.6, "count": 220 },
+      "id": "fff6"
+    },
+    {
+      "productId": 7,
+      "title": "Women's Designer Handbag",
+      "price": 120.0,
+      "properties": [
+        {
+          "color": "red",
+          "quantity": 30,
+          "stock": true,
+          "material": "synthetic leather",
+          "style": "luxury"
+        }
+      ],
+      "type": "simple",
+      "stock": 30,
+      "description": "Luxurious designer handbag perfect for all occasions.",
+      "category": "women's clothing",
+      "image": "https://images.pexels.com/photos/1204460/pexels-photo-1204460.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "rating": { "rate": 4.5, "count": 175 },
+      "id": "fff7"
+    },
+    {
+      "productId": 8,
+      "title": "Men's Waterproof Hiking Boots",
+      "price": 75.0,
+      "properties": [
+        {
+          "color": "brown",
+          "quantity": 50,
+          "stock": true,
+          "season": "all-season",
+          "material": "leather",
+          "style": "outdoor",
+          "size": [
+            { "size": "38", "quantity": 12 },
+            { "size": "39", "quantity": 8 },
+            { "size": "40", "quantity": 15 }
+          ]
+        }
+      ],
+      "type": "composite",
+      "stock": 50,
+      "description": "Durable and waterproof hiking boots for all terrains.",
+      "category": "men's clothing",
+      "image": "https://images.pexels.com/photos/6003327/pexels-photo-6003327.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "rating": { "rate": 4.8, "count": 200 },
+      "id": "fff8"
+    },
+    {
+      "productId": 9,
+      "title": "Men' Graphic T-Shirt",
+      "price": 12.99,
+      "properties": [
+        {
+          "color": "green",
+          "quantity": 35,
+          "stock": true,
+          "season": "summer",
+          "fabric": "cotton",
+          "style": "casual",
+          "size": [
+            { "size": "s", "quantity": 5 },
+            { "size": "m", "quantity": 10 },
+            { "size": "l", "quantity": 10 },
+            { "size": "xl", "quantity": 10 }
+          ]
+        }
+      ],
+      "type": "composite",
+      "stock": 35,
+      "description": "Fun and comfortable graphic T-shirt for Men.",
+      "category": "men's clothing",
+      "image": "https://images.pexels.com/photos/4101142/pexels-photo-4101142.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "rating": { "rate": 4.3, "count": 110 },
+      "id": "fff9"
+    },
+    {
+      "productId": 10,
+      "title": "Women's High-Waisted Jeans",
+      "price": 45.5,
+      "properties": [
+        {
+          "color": "dark blue",
+          "quantity": 70,
+          "stock": true,
+          "fabric": "denim",
+          "style": "casual",
+          "size": [
+            { "size": "s", "quantity": 15 },
+            { "size": "m", "quantity": 20 },
+            { "size": "l", "quantity": 20 },
+            { "size": "xl", "quantity": 15 }
+          ]
+        }
+      ],
+      "type": "simple",
+      "stock": 70,
+      "description": "Stylish high-waisted jeans perfect for any occasion.",
+      "category": "men's clothing",
+      "image": "https://images.pexels.com/photos/5214139/pexels-photo-5214139.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "rating": { "rate": 4.6, "count": 350 },
+      "id": "fffa"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "title": "electronics"
+    },
+    {
+      "id": "2",
+      "title": "jewelry"
+    },
+    {
+      "id": "3",
+      "title": "men's clothing"
+    },
+    {
+      "id": "4",
+      "title": "women's clothing"
+    }
+  ],
+  "team": [
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Ángel",
+        "last": "Vázquez"
+      },
+      "location": {
+        "street": {
+          "number": 3517,
+          "name": "Paseo de Zorrilla"
+        },
+        "city": "Orihuela",
+        "state": "Comunidad de Madrid",
+        "country": "Spain",
+        "postcode": 55546,
+        "coordinates": {
+          "latitude": "-35.3908",
+          "longitude": "-83.0275"
+        },
+        "timezone": {
+          "offset": "+5:30",
+          "description": "Bombay, Calcutta, Madras, New Delhi"
+        }
+      },
+      "email": "angel.vazquez@example.com",
+      "login": {
+        "uuid": "2fb5f978-dd05-4441-a66c-2df34047919a",
+        "username": "happypeacock265",
+        "password": "garden",
+        "salt": "Z1dwqsgy",
+        "md5": "c07e90d5848f12aac24bc337218d3003",
+        "sha1": "2dfb09ed8bcffae5025e0dcc004efab008ea3ba2",
+        "sha256": "5d7cc5e558da657ee177aae8e2083a07047ce63d8852c499ba59589f0a16820f"
+      },
+      "dob": {
+        "date": "1990-11-14T00:48:34.042Z",
+        "age": 34
+      },
+      "registered": {
+        "date": "2021-04-11T23:14:59.872Z",
+        "age": 3
+      },
+      "phone": "920-246-056",
+      "cell": "603-292-318",
+      "id": {
+        "name": "DNI",
+        "value": "00820397-E"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/24.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/24.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/24.jpg"
+      },
+      "nat": "ES",
+      "job": {
+        "abbreviation": "CEO",
+        "description": "Chief Executive Officer at a multinational corporation"
+      }
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Mario",
+        "last": "Ozuna"
+      },
+      "location": {
+        "street": {
+          "number": 2155,
+          "name": "Prolongación Sur Jimínez"
+        },
+        "city": "Tetela del Volcán",
+        "state": "Tabasco",
+        "country": "Mexico",
+        "postcode": 11187,
+        "coordinates": {
+          "latitude": "-75.5044",
+          "longitude": "-51.8618"
+        },
+        "timezone": {
+          "offset": "-6:00",
+          "description": "Central Time (US & Canada), Mexico City"
+        }
+      },
+      "email": "mario.ozuna@example.com",
+      "login": {
+        "uuid": "4f353d11-d405-4fc2-a2aa-33eed062b4ed",
+        "username": "sadbear237",
+        "password": "federal",
+        "salt": "ykUr4ZDl",
+        "md5": "510b27df26314baa15c0db12c5b2d93e",
+        "sha1": "e892eeb367533e4c4a148a5a76f6e4c4bb5d9a4d",
+        "sha256": "243c8111c7307e00a976185f37edbaf67e685252a7ae50ba7831b5a031e2d1a0"
+      },
+      "dob": {
+        "date": "1998-01-18T19:51:57.379Z",
+        "age": 26
+      },
+      "registered": {
+        "date": "2005-09-05T21:39:52.485Z",
+        "age": 19
+      },
+      "phone": "(688) 277 2875",
+      "cell": "(651) 471 3141",
+      "id": {
+        "name": "NSS",
+        "value": "24 57 50 9796 1"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/67.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/67.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/67.jpg"
+      },
+      "nat": "MX",
+      "job": {
+        "abbreviation": "CTO",
+        "description": "Chief Technology Officer at a leading tech company"
+      }
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "Miss",
+        "first": "Lidija",
+        "last": "Novak"
+      },
+      "location": {
+        "street": {
+          "number": 6017,
+          "name": "Svete Stankovića-francuza"
+        },
+        "city": "Lajkovac",
+        "state": "Raška",
+        "country": "Serbia",
+        "postcode": 83266,
+        "coordinates": {
+          "latitude": "-4.5023",
+          "longitude": "-115.0380"
+        },
+        "timezone": {
+          "offset": "+1:00",
+          "description": "Brussels, Copenhagen, Madrid, Paris"
+        }
+      },
+      "email": "lidija.novak@example.com",
+      "login": {
+        "uuid": "5b02f2ad-e3cb-43dc-9926-c15163468c80",
+        "username": "happybutterfly418",
+        "password": "biscuit",
+        "salt": "jjc9o06q",
+        "md5": "7da81213eba96601dc9c31a8b4088fb4",
+        "sha1": "39947e8babdca78204e4b4314c7e60f5ef2ef15d",
+        "sha256": "e73d04617af13a4da0abc88d1f065413f3dba7a6d2f96a337517b05b392c0183"
+      },
+      "dob": {
+        "date": "1955-11-25T17:00:20.288Z",
+        "age": 69
+      },
+      "registered": {
+        "date": "2019-11-13T06:43:33.570Z",
+        "age": 5
+      },
+      "phone": "029-1323-744",
+      "cell": "066-7523-866",
+      "id": {
+        "name": "SID",
+        "value": "792193666"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/21.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/21.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/21.jpg"
+      },
+      "nat": "RS",
+      "job": {
+        "abbreviation": "HRM",
+        "description": "Human Resources Manager at a global organization"
+      }
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "Mrs",
+        "first": "Dina",
+        "last": "Carvalho"
+      },
+      "location": {
+        "street": {
+          "number": 622,
+          "name": "Rua Pernambuco"
+        },
+        "city": "Maringá",
+        "state": "Paraná",
+        "country": "Brazil",
+        "postcode": 41278,
+        "coordinates": {
+          "latitude": "-38.1883",
+          "longitude": "-135.2527"
+        },
+        "timezone": {
+          "offset": "-3:00",
+          "description": "Brasilia Time"
+        }
+      },
+      "email": "dina.carvalho@example.com",
+      "login": {
+        "uuid": "5c8be1b5-23f6-4f6d-bd6f-e4c272db7c0a",
+        "username": "greenenguin950",
+        "password": "intact",
+        "salt": "c5MBj9EP",
+        "md5": "f5de24964c8e249fe5bc9f21158a3e88",
+        "sha1": "efb9d9d99b8d2ff3994f3eaad0b39868be36511b",
+        "sha256": "6d94b44d9f03b9a704b78fbc7423884c12457c32d189ae0c06d4a1910a3a0ad9"
+      },
+      "dob": {
+        "date": "1975-12-29T13:35:02.213Z",
+        "age": 49
+      },
+      "registered": {
+        "date": "2010-11-01T23:35:58.007Z",
+        "age": 14
+      },
+      "phone": "(21) 7725-8435",
+      "cell": "(21) 9599-4176",
+      "id": {
+        "name": "CPF",
+        "value": "118.396.451-01"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/30.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/30.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/30.jpg"
+      },
+      "nat": "BR",
+      "job": {
+        "abbreviation": "CFO",
+        "description": "Chief Financial Officer at a global company"
+      }
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Zeke",
+        "last": "Nguyen"
+      },
+      "location": {
+        "street": {
+          "number": 692,
+          "name": "Moylan Street"
+        },
+        "city": "Fairfield",
+        "state": "New South Wales",
+        "country": "Australia",
+        "postcode": 4860,
+        "coordinates": {
+          "latitude": "-58.4344",
+          "longitude": "95.8465"
+        },
+        "timezone": {
+          "offset": "+10:00",
+          "description": "Sydney Time"
+        }
+      },
+      "email": "zeke.nguyen@example.com",
+      "login": {
+        "uuid": "dc3e39f3-1c1e-48d5-a6b4-17b517ecf69a",
+        "username": "crazybutterfly291",
+        "password": "lemon",
+        "salt": "QzoAjGgP",
+        "md5": "a248b9ebfbd27dbf072db0ac5207731b",
+        "sha1": "f557ce5d84a54cf6e1f6235c9905733e33f6b38b",
+        "sha256": "a31353cd66e6d92e5be21ec73e5619814091b3c7a5330feeb7e07938f8b31d87"
+      },
+      "dob": {
+        "date": "1988-05-28T11:14:59.717Z",
+        "age": 36
+      },
+      "registered": {
+        "date": "2008-07-30T17:28:02.358Z",
+        "age": 16
+      },
+      "phone": "(02) 8319 5003",
+      "cell": "(04) 3383 6060",
+      "id": {
+        "name": "TFN",
+        "value": "415 108 479"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/78.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/78.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/78.jpg"
+      },
+      "nat": "AU",
+      "job": {
+        "abbreviation": "COO",
+        "description": "Chief Operating Officer at an international business"
+      }
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "Miss",
+        "first": "Freya",
+        "last": "Kovac"
+      },
+      "location": {
+        "street": {
+          "number": 453,
+          "name": "Splitska Ulica"
+        },
+        "city": "Mali Lošinj",
+        "state": "Primorsko-Goranska",
+        "country": "Croatia",
+        "postcode": 48400,
+        "coordinates": {
+          "latitude": "-15.7655",
+          "longitude": "35.4856"
+        },
+        "timezone": {
+          "offset": "+1:00",
+          "description": "Central European Time"
+        }
+      },
+      "email": "freya.kovac@example.com",
+      "login": {
+        "uuid": "f8d0d1b9-2205-4f83-8b26-06c3e700d8e3",
+        "username": "whitebutterfly824",
+        "password": "lemons",
+        "salt": "U2HJwFxI",
+        "md5": "d31952cde566fb7b9577d9db57b5390e",
+        "sha1": "f9c94a2f10c95e2a051d13f8281f8b6d4e8b5051",
+        "sha256": "b3a8b8f7ff83f1cf2e09b60a7f1597627b3c1d47b2d6ad9e10e736302d46a5a7"
+      },
+      "dob": {
+        "date": "1993-07-25T12:55:36.399Z",
+        "age": 31
+      },
+      "registered": {
+        "date": "2012-12-20T06:57:53.664Z",
+        "age": 12
+      },
+      "phone": "(064) 539-3347",
+      "cell": "(064) 239-6342",
+      "id": {
+        "name": "OIB",
+        "value": "43291828409"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/66.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/66.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/66.jpg"
+      },
+      "nat": "HR",
+      "job": {
+        "abbreviation": "CMO",
+        "description": "Chief Marketing Officer at a leading consumer goods company"
+      }
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Kendrick",
+        "last": "Tanner"
+      },
+      "location": {
+        "street": {
+          "number": 774,
+          "name": "Route de Vannes"
+        },
+        "city": "Ploeren",
+        "state": "Brittany",
+        "country": "France",
+        "postcode": 56880,
+        "coordinates": {
+          "latitude": "42.5817",
+          "longitude": "-72.9255"
+        },
+        "timezone": {
+          "offset": "+1:00",
+          "description": "Paris Time"
+        }
+      },
+      "email": "kendrick.tanner@example.com",
+      "login": {
+        "uuid": "2ab68e8e-76b2-49e5-99f7-5824d2d02b96",
+        "username": "organicpeacock611",
+        "password": "action",
+        "salt": "v5ZlRsHw",
+        "md5": "8d90b0db6b978b3b01efbb5bc79f5b12",
+        "sha1": "6e6c72b8b93bc8db7cb1b7cd8464fc60e84c9c39",
+        "sha256": "1bb4153c3db058c9f4281ebfbd913f07b6e72be1ff1999b963a7d5046bcf8f70"
+      },
+      "dob": {
+        "date": "1991-12-22T15:12:55.147Z",
+        "age": 33
+      },
+      "registered": {
+        "date": "2010-07-12T15:57:47.319Z",
+        "age": 14
+      },
+      "phone": "(03) 9853 8840",
+      "cell": "(04) 5837 5435",
+      "id": {
+        "name": "INSEE",
+        "value": "192-87-9022"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/43.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/43.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/43.jpg"
+      },
+      "nat": "FR",
+      "job": {
+        "abbreviation": "VP",
+        "description": "Vice President of International Business Development"
+      }
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "Miss",
+        "first": "Sophia",
+        "last": "Méndez"
+      },
+      "location": {
+        "street": {
+          "number": 1325,
+          "name": "Avenida de la Paz"
+        },
+        "city": "Santa Fe",
+        "state": "Buenos Aires",
+        "country": "Argentina",
+        "postcode": 14430,
+        "coordinates": {
+          "latitude": "-9.4546",
+          "longitude": "43.4537"
+        },
+        "timezone": {
+          "offset": "-3:00",
+          "description": "Argentina Time"
+        }
+      },
+      "email": "sophia.mendez@example.com",
+      "login": {
+        "uuid": "9a561e1d-674b-46a9-960f-35e97f92c019",
+        "username": "smallwolf123",
+        "password": "icecream",
+        "salt": "WVQYwFZu",
+        "md5": "9abf9d21d30981e4d2b602ab8d06d3bb",
+        "sha1": "dc20756a586f76d8c63e2d4e72be242f5f6cbd87",
+        "sha256": "f171d3708992a5cfad6a37cb5c3bb8f73bb8db5fca3f8c2fd040d3be58cf1b68"
+      },
+      "dob": {
+        "date": "1996-08-14T11:57:12.301Z",
+        "age": 28
+      },
+      "registered": {
+        "date": "2015-01-19T22:11:36.201Z",
+        "age": 9
+      },
+      "phone": "(011) 7592 7532",
+      "cell": "(011) 9371 2130",
+      "id": {
+        "name": "DNI",
+        "value": "28-29586527-9"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/61.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/61.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/61.jpg"
+      },
+      "nat": "AR",
+      "job": {
+        "abbreviation": "COO",
+        "description": "Chief Operating Officer at a leading logistics company"
+      }
+    }
+  ],
+  "favorites": [
+    {
+      "id": "1",
+      "favorityId": 1,
+      "userId": 3,
+      "date": "2020-03-02T00:00:00.000Z",
+      "products": [
+        {
+          "productId": 1,
+          "quantity": {
+            "xs": 1,
+            "s": 2
+          }
+        },
+        {
+          "productId": 2,
+          "quantity": {
+            "m": 1,
+            "l": 1
+          }
+        },
+        {
+          "productId": 5,
+          "quantity": 6
+        }
+      ]
+    },
+    {
+      "id": "a812",
+      "favorityId": 2,
+      "userId": 3,
+      "date": "2020-03-02T00:00:00.000Z",
+      "products": [
+        {
+          "productId": 1,
+          "quantity": {
+            "xs": 1,
+            "s": 2
+          }
+        },
+        {
+          "productId": 2,
+          "quantity": {
+            "m": 1,
+            "l": 1
+          }
+        },
+        {
+          "productId": 5,
+          "quantity": 6
+        }
+      ]
+    }
+  ],
+  "auth": [
+    {
+      "username": "johnd",
+      "password": "m38rmF$",
+      "token": "a1b2c3d4e5f6g7h8",
+      "id": "8c11"
+    },
+    {
+      "username": "mor_2314",
+      "password": "83r5^_",
+      "token": "i9j0k1l2m3n4o5p6",
+      "id": "3a24"
+    },
+    {
+      "username": "kevinryan",
+      "password": "kev02937@",
+      "token": "q7r8s9t0u1v2w3x4",
+      "id": "840e"
+    },
+    {
+      "username": "donero",
+      "password": "ewedon",
+      "token": "y5z6a7b8c9d0e1f2",
+      "id": "ac19"
+    },
+    {
+      "username": "derek",
+      "password": "jklg*_56",
+      "token": "g3h4i5j6k7l8m9n0",
+      "id": "0b45"
+    },
+    {
+      "username": "david_r",
+      "password": "3478*#54",
+      "token": "o1p2q3r4s5t6u7v8",
+      "id": "00ba"
+    },
+    {
+      "username": "snyder",
+      "password": "f238&@*$",
+      "token": "w9x0y1z2a3b4c5d6",
+      "id": "55e7"
+    },
+    {
+      "username": "hopkins",
+      "password": "William56$hj",
+      "token": "e7f8g9h0i1j2k3l4",
+      "id": "26b8"
+    },
+    {
+      "username": "kate_h",
+      "password": "kfejk@*_",
+      "token": "m5n6o7p8q9r0s1t2",
+      "id": "b22b"
+    },
+    {
+      "username": "jimmie_k",
+      "password": "klein*#%*",
+      "token": "u3v4w5x6y7z8a9b0",
+      "id": "f55c"
+    },
+    {
+      "username": "johnd",
+      "password": "asterisco",
+      "token": "c1d2e3f4g5h6i7j8",
+      "id": "0bdb"
+    },
+    {
+      "username": "johnd",
+      "password": "m38rmF$",
+      "token": "k9l0m1n2o3p4q5r6",
+      "id": "eea9"
+    }
+  ],
+  "login": [
+    {
+      "username": "johnd",
+      "password": "m38rmF$"
+    }
+  ]
+}
