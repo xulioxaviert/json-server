@@ -279,104 +279,50 @@
   ],
   "carts": [
     {
-      "cartId": 1,
-      "userId": 3,
-      "date": "2020-03-01T00:00:00.000Z",
-      "products": [
-        {
-          "productId": 15,
-          "quantity": [
-            {
-              "size": "s",
-              "quantity": 1
-            },
-            {
-              "size": "m",
-              "quantity": 2
-            },
-            {
-              "size": "l",
-              "quantity": 1
-            }
-          ]
-        },
-        {
-          "productId": 2,
-          "quantity": [
-            {
-              "size": "l",
-              "quantity": 1
-            }
-          ]
-        }
-      ],
-      "id": "000d"
-    },
-    {
       "id": "c8ef",
       "cartId": 1,
       "userId": 5,
       "date": "2020-03-01T00:00:00.000Z",
       "products": [
         {
-          "productId": 15,
-          "quantity": [
+          "productId": 1,
+          "title": "Mens Casual Premium Slim Fit T-Shirts",
+          "price": 22.3,
+          "properties": [
             {
-              "size": "s",
-              "quantity": 1
-            },
-            {
-              "size": "m",
-              "quantity": 2
-            },
-            {
-              "size": "l",
-              "quantity": 1
+              "color": "black",
+              "size": [
+                {
+                  "size": "xs",
+                  "quantity": 1
+                },
+                {
+                  "size": "s",
+                  "quantity": 2
+                },
+                {
+                  "size": "m",
+                  "quantity": 1
+                }
+              ],
+              "quantity": 105,
+              "stock": true,
+              "season": "summer",
+              "fabric": "cotton",
+              "fit": "slim",
+              "style": "casual"
             }
-          ]
-        },
-        {
-          "productId": 10,
-          "quantity": [
-            {
-              "size": "U",
-              "quantity": 1
-            }
-          ]
-        },
-        {
-          "productId": 11,
-          "quantity": [
-            {
-              "size": "U",
-              "quantity": 1
-            }
-          ]
-        },
-        {
-          "productId": 16,
-          "quantity": [
-            {
-              "size": "s",
-              "quantity": 4
-            },
-            {
-              "size": "m",
-              "quantity": 1
-            },
-            {
-              "size": "l",
-              "quantity": 2
-            },
-            {
-              "size": "xl",
-              "quantity": 2
-            },
-            {
-              "size": "xxl",
-              "quantity": 5
-            }
-          ]
+          ],
+          "type": "composite",
+          "stock": 105,
+          "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, lightweight & soft fabric for breathable and comfortable wearing.",
+          "category": "men's clothing",
+          "image": "https://cdn.pixabay.com/photo/2023/12/20/03/29/men-8458815_1280.jpg",
+          "rating": {
+            "rate": 4.1,
+            "count": 259
+          },
+          "id": "fff9"
         }
       ]
     }
