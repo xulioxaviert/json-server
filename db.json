@@ -305,7 +305,6 @@
                   "quantity": 1
                 }
               ],
-              "quantity": 105,
               "stock": true,
               "season": "summer",
               "fabric": "cotton",
@@ -313,6 +312,7 @@
               "style": "casual"
             }
           ],
+          "quantity": 4,
           "type": "composite",
           "stock": 105,
           "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, lightweight & soft fabric for breathable and comfortable wearing.",
@@ -323,6 +323,55 @@
             "count": 259
           },
           "id": "fff9"
+        },
+        {
+          "productId": 5,
+          "title": "Wireless Earbuds",
+          "price": 59.99,
+          "properties": [
+            {
+              "color": "black",
+              "stock": true,
+              "batteryLife": "8 hours",
+              "style": "tech"
+            }
+          ],
+          "quantity": 1,
+          "type": "simple",
+          "stock": 100,
+          "description": "High-quality wireless earbuds with excellent sound clarity.",
+          "category": "electronics",
+          "image": "https://images.pexels.com/photos/3780681/pexels-photo-3780681.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "rating": { "rate": 4.4, "count": 150 },
+          "id": "fff5"
+        },
+        {
+          "productId": 2,
+          "title": "Women's Casual T-Shirts",
+          "price": 19.99,
+          "properties": [
+            {
+              "color": "red",
+              "size": [
+                { "size": "s", "quantity": 1 },
+                { "size": "m", "quantity": 1 },
+                { "size": "l", "quantity": 1 }
+              ],
+              "stock": true,
+              "season": "spring",
+              "fabric": "linen",
+              "fit": "loose",
+              "style": "casual"
+            }
+          ],
+          "quantity": 3,
+          "type": "composite",
+          "stock": 35,
+          "description": "Comfortable and lightweight T-shirts perfect for spring outings.",
+          "category": "women's clothing",
+          "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+          "rating": { "rate": 4.5, "count": 305 },
+          "id": "fff2"
         }
       ]
     }
@@ -330,7 +379,7 @@
   "products": [
     {
       "productId": 1,
-      "title": "Mens Casual Premium Slim Fit T-Shirts",
+      "title": "Men's Casual Premium Slim Fit T-Shirts",
       "price": 22.3,
       "properties": [
         {
@@ -567,7 +616,7 @@
           ]
         }
       ],
-      "type": "simple",
+      "type": "composite",
       "stock": 70,
       "description": "Stylish high-waisted jeans perfect for any occasion.",
       "category": "men's clothing",
