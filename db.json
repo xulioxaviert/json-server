@@ -277,125 +277,39 @@
       "id": "eea9"
     }
   ],
-  "carts": [
-    {
-      "cartId": 1,
-      "userId": 3,
-      "date": "2020-03-01T00:00:00.000Z",
-      "products": [
-        {
-          "productId": 15,
-          "quantity": [
-            {
-              "size": "s",
-              "quantity": 1
-            },
-            {
-              "size": "m",
-              "quantity": 2
-            },
-            {
-              "size": "l",
-              "quantity": 1
-            }
-          ]
-        },
-        {
-          "productId": 2,
-          "quantity": [
-            {
-              "size": "l",
-              "quantity": 1
-            }
-          ]
-        }
-      ],
-      "id": "000d"
-    },
-    {
-      "id": "c8ef",
-      "cartId": 1,
-      "userId": 5,
-      "date": "2020-03-01T00:00:00.000Z",
-      "products": [
-        {
-          "productId": 15,
-          "quantity": [
-            {
-              "size": "s",
-              "quantity": 1
-            },
-            {
-              "size": "m",
-              "quantity": 2
-            },
-            {
-              "size": "l",
-              "quantity": 1
-            }
-          ]
-        },
-        {
-          "productId": 10,
-          "quantity": [
-            {
-              "size": "U",
-              "quantity": 1
-            }
-          ]
-        },
-        {
-          "productId": 11,
-          "quantity": [
-            {
-              "size": "U",
-              "quantity": 1
-            }
-          ]
-        },
-        {
-          "productId": 16,
-          "quantity": [
-            {
-              "size": "s",
-              "quantity": 4
-            },
-            {
-              "size": "m",
-              "quantity": 1
-            },
-            {
-              "size": "l",
-              "quantity": 2
-            },
-            {
-              "size": "xl",
-              "quantity": 2
-            },
-            {
-              "size": "xxl",
-              "quantity": 5
-            }
-          ]
-        }
-      ]
-    }
-  ],
   "products": [
     {
       "productId": 1,
-      "title": "Mens Casual Premium Slim Fit T-Shirts",
+      "title": "Men's Casual Premium Slim Fit T-Shirts",
       "price": 22.3,
       "properties": [
         {
           "color": "black",
           "size": [
-            { "size": "xs", "quantity": 5 },
-            { "size": "s", "quantity": 10 },
-            { "size": "m", "quantity": 15 },
-            { "size": "l", "quantity": 20 },
-            { "size": "xl", "quantity": 25 },
-            { "size": "xxl", "quantity": 30 }
+            {
+              "size": "xs",
+              "quantity": 5
+            },
+            {
+              "size": "s",
+              "quantity": 10
+            },
+            {
+              "size": "m",
+              "quantity": 15
+            },
+            {
+              "size": "l",
+              "quantity": 20
+            },
+            {
+              "size": "xl",
+              "quantity": 25
+            },
+            {
+              "size": "xxl",
+              "quantity": 30
+            }
           ],
           "quantity": 105,
           "stock": true,
@@ -410,7 +324,10 @@
       "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, lightweight & soft fabric for breathable and comfortable wearing.",
       "category": "men's clothing",
       "image": "https://cdn.pixabay.com/photo/2023/12/20/03/29/men-8458815_1280.jpg",
-      "rating": { "rate": 4.1, "count": 259 },
+      "rating": {
+        "rate": 4.1,
+        "count": 259
+      },
       "id": "fff9"
     },
     {
@@ -421,9 +338,18 @@
         {
           "color": "red",
           "size": [
-            { "size": "s", "quantity": 12 },
-            { "size": "m", "quantity": 8 },
-            { "size": "l", "quantity": 15 }
+            {
+              "size": "s",
+              "quantity": 12
+            },
+            {
+              "size": "m",
+              "quantity": 8
+            },
+            {
+              "size": "l",
+              "quantity": 15
+            }
           ],
           "quantity": 35,
           "stock": true,
@@ -438,7 +364,10 @@
       "description": "Comfortable and lightweight T-shirts perfect for spring outings.",
       "category": "women's clothing",
       "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
-      "rating": { "rate": 4.5, "count": 305 },
+      "rating": {
+        "rate": 4.5,
+        "count": 305
+      },
       "id": "fff2"
     },
     {
@@ -460,7 +389,10 @@
       "description": "Trendy sunglasses that combine style and UV protection.",
       "category": "jewelry",
       "image": "https://images.pexels.com/photos/30166689/pexels-photo-30166689/free-photo-of-chaqueta-verde-elegante-con-gafas-de-sol.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "rating": { "rate": 4.0, "count": 120 },
+      "rating": {
+        "rate": 4,
+        "count": 120
+      },
       "id": "fff3"
     },
     {
@@ -481,7 +413,10 @@
       "description": "Durable leather laptop bag with ample storage for professionals.",
       "category": "electronics",
       "image": "https://images.pexels.com/photos/936081/pexels-photo-936081.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "rating": { "rate": 4.7, "count": 70 },
+      "rating": {
+        "rate": 4.7,
+        "count": 70
+      },
       "id": "fff4"
     },
     {
@@ -502,7 +437,10 @@
       "description": "High-quality wireless earbuds with excellent sound clarity.",
       "category": "electronics",
       "image": "https://images.pexels.com/photos/3780681/pexels-photo-3780681.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "rating": { "rate": 4.4, "count": 150 },
+      "rating": {
+        "rate": 4.4,
+        "count": 150
+      },
       "id": "fff5"
     },
     {
@@ -523,13 +461,16 @@
       "description": "Elegant formal wristwatch for men with a minimalist design.",
       "category": "jewelry",
       "image": "https://images.pexels.com/photos/30372903/pexels-photo-30372903.jpeg?auto=compress&cs=tinysrgb&w=600",
-      "rating": { "rate": 4.6, "count": 220 },
+      "rating": {
+        "rate": 4.6,
+        "count": 220
+      },
       "id": "fff6"
     },
     {
       "productId": 7,
       "title": "Women's Designer Handbag",
-      "price": 120.0,
+      "price": 120,
       "properties": [
         {
           "color": "red",
@@ -544,13 +485,16 @@
       "description": "Luxurious designer handbag perfect for all occasions.",
       "category": "women's clothing",
       "image": "https://images.pexels.com/photos/1204460/pexels-photo-1204460.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "rating": { "rate": 4.5, "count": 175 },
+      "rating": {
+        "rate": 4.5,
+        "count": 175
+      },
       "id": "fff7"
     },
     {
       "productId": 8,
       "title": "Men's Waterproof Hiking Boots",
-      "price": 75.0,
+      "price": 75,
       "properties": [
         {
           "color": "brown",
@@ -560,9 +504,18 @@
           "material": "leather",
           "style": "outdoor",
           "size": [
-            { "size": "38", "quantity": 12 },
-            { "size": "39", "quantity": 8 },
-            { "size": "40", "quantity": 15 }
+            {
+              "size": "38",
+              "quantity": 12
+            },
+            {
+              "size": "39",
+              "quantity": 8
+            },
+            {
+              "size": "40",
+              "quantity": 15
+            }
           ]
         }
       ],
@@ -571,7 +524,10 @@
       "description": "Durable and waterproof hiking boots for all terrains.",
       "category": "men's clothing",
       "image": "https://images.pexels.com/photos/6003327/pexels-photo-6003327.jpeg?auto=compress&cs=tinysrgb&w=600",
-      "rating": { "rate": 4.8, "count": 200 },
+      "rating": {
+        "rate": 4.8,
+        "count": 200
+      },
       "id": "fff8"
     },
     {
@@ -587,10 +543,22 @@
           "fabric": "cotton",
           "style": "casual",
           "size": [
-            { "size": "s", "quantity": 5 },
-            { "size": "m", "quantity": 10 },
-            { "size": "l", "quantity": 10 },
-            { "size": "xl", "quantity": 10 }
+            {
+              "size": "s",
+              "quantity": 5
+            },
+            {
+              "size": "m",
+              "quantity": 10
+            },
+            {
+              "size": "l",
+              "quantity": 10
+            },
+            {
+              "size": "xl",
+              "quantity": 10
+            }
           ]
         }
       ],
@@ -599,8 +567,11 @@
       "description": "Fun and comfortable graphic T-shirt for Men.",
       "category": "men's clothing",
       "image": "https://images.pexels.com/photos/4101142/pexels-photo-4101142.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "rating": { "rate": 4.3, "count": 110 },
-      "id": "fff9"
+      "rating": {
+        "rate": 4.3,
+        "count": 110
+      },
+      "id": "trs9"
     },
     {
       "productId": 10,
@@ -614,19 +585,34 @@
           "fabric": "denim",
           "style": "casual",
           "size": [
-            { "size": "s", "quantity": 15 },
-            { "size": "m", "quantity": 20 },
-            { "size": "l", "quantity": 20 },
-            { "size": "xl", "quantity": 15 }
+            {
+              "size": "s",
+              "quantity": 15
+            },
+            {
+              "size": "m",
+              "quantity": 20
+            },
+            {
+              "size": "l",
+              "quantity": 20
+            },
+            {
+              "size": "xl",
+              "quantity": 15
+            }
           ]
         }
       ],
-      "type": "simple",
+      "type": "composite",
       "stock": 70,
       "description": "Stylish high-waisted jeans perfect for any occasion.",
       "category": "men's clothing",
       "image": "https://images.pexels.com/photos/5214139/pexels-photo-5214139.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "rating": { "rate": 4.6, "count": 350 },
+      "rating": {
+        "rate": 4.6,
+        "count": 350
+      },
       "id": "fffa"
     }
   ],
@@ -1261,7 +1247,12 @@
   "login": [
     {
       "username": "johnd",
-      "password": "m38rmF$"
+      "password": "m38rmF$",
+      "id": "a5d4"
     }
+  ],
+  "sales": [],
+  "carts": [
+    
   ]
 }
