@@ -288,7 +288,38 @@
           "size": [
             {
               "size": "xs",
-              "quantity": 5
+              "quantity": 1
+            },
+            {
+              "size": "s",
+              "quantity": 1
+            },
+            {
+              "size": "m",
+              "quantity": 1
+            },
+            {
+              "size": "l",
+              "quantity": 1
+            },
+            {
+              "size": "xl",
+              "quantity": 1
+            },
+            {
+              "size": "xxl",
+              "quantity": 1
+            },
+            {
+              "size": "xxl",
+              "quantity": 1
+            }
+          ],
+          "quantity": 7,
+          "stock": [
+            {
+              "size": "xs",
+              "quantity": 10
             },
             {
               "size": "s",
@@ -296,23 +327,26 @@
             },
             {
               "size": "m",
-              "quantity": 15
+              "quantity": 10
             },
             {
               "size": "l",
-              "quantity": 20
+              "quantity": 10
             },
             {
               "size": "xl",
-              "quantity": 25
+              "quantity": 10
             },
             {
               "size": "xxl",
-              "quantity": 30
+              "quantity": 10
+            },
+            {
+              "size": "xxxl",
+              "quantity": 10
             }
           ],
-          "quantity": 105,
-          "stock": true,
+          "totalStock": 70,
           "season": "summer",
           "fabric": "cotton",
           "fit": "slim",
@@ -320,7 +354,6 @@
         }
       ],
       "type": "composite",
-      "stock": 105,
       "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, lightweight & soft fabric for breathable and comfortable wearing.",
       "category": "men's clothing",
       "image": "https://cdn.pixabay.com/photo/2023/12/20/03/29/men-8458815_1280.jpg",
@@ -339,20 +372,66 @@
           "color": "red",
           "size": [
             {
+              "size": "xs",
+              "quantity": 1
+            },
+            {
               "size": "s",
-              "quantity": 12
+              "quantity": 1
             },
             {
               "size": "m",
-              "quantity": 8
+              "quantity": 1
             },
             {
               "size": "l",
-              "quantity": 15
+              "quantity": 1
+            },
+            {
+              "size": "xl",
+              "quantity": 1
+            },
+            {
+              "size": "xxl",
+              "quantity": 1
+            },
+            {
+              "size": "xxxl",
+              "quantity": 1
             }
           ],
-          "quantity": 35,
-          "stock": true,
+          "quantity": 7,
+          "stock": [
+            {
+              "size": "xs",
+              "quantity": 10
+            },
+            {
+              "size": "s",
+              "quantity": 10
+            },
+            {
+              "size": "m",
+              "quantity": 10
+            },
+            {
+              "size": "l",
+              "quantity": 10
+            },
+            {
+              "size": "xl",
+              "quantity": 10
+            },
+            {
+              "size": "xxl",
+              "quantity": 10
+            },
+            {
+              "size": "xxxl",
+              "quantity": 10
+            }
+          ],
+          "totalStock": 70,
           "season": "spring",
           "fabric": "linen",
           "fit": "loose",
@@ -377,15 +456,14 @@
       "properties": [
         {
           "color": "brown",
-          "quantity": 50,
-          "stock": true,
+          "quantity": 1,
           "season": "summer",
           "material": "plastic",
           "style": "fashion"
         }
       ],
       "type": "simple",
-      "stock": 50,
+      "totalStock": 50,
       "description": "Trendy sunglasses that combine style and UV protection.",
       "category": "jewelry",
       "image": "https://images.pexels.com/photos/30166689/pexels-photo-30166689/free-photo-of-chaqueta-verde-elegante-con-gafas-de-sol.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -402,8 +480,7 @@
       "properties": [
         {
           "color": "tan",
-          "quantity": 20,
-          "stock": true,
+          "quantity": 1,
           "material": "leather",
           "style": "professional"
         }
@@ -426,7 +503,7 @@
       "properties": [
         {
           "color": "black",
-          "quantity": 100,
+          "quantity": 1,
           "stock": true,
           "batteryLife": "8 hours",
           "style": "tech"
@@ -450,7 +527,7 @@
       "properties": [
         {
           "color": "silver",
-          "quantity": 50,
+          "quantity": 1,
           "stock": true,
           "material": "stainless steel",
           "style": "formal"
@@ -474,7 +551,7 @@
       "properties": [
         {
           "color": "red",
-          "quantity": 30,
+          "quantity": 1,
           "stock": true,
           "material": "synthetic leather",
           "style": "luxury"
@@ -498,29 +575,74 @@
       "properties": [
         {
           "color": "brown",
-          "quantity": 50,
-          "stock": true,
           "season": "all-season",
           "material": "leather",
           "style": "outdoor",
           "size": [
             {
               "size": "38",
-              "quantity": 12
+              "quantity": 1
             },
             {
               "size": "39",
-              "quantity": 8
+              "quantity": 1
             },
             {
               "size": "40",
-              "quantity": 15
+              "quantity": 1
+            },
+            {
+              "size": "41",
+              "quantity": 1
+            },
+            {
+              "size": "42",
+              "quantity": 1
+            },
+            {
+              "size": "43",
+              "quantity": 1
+            },
+            {
+              "size": "44",
+              "quantity": 1
             }
-          ]
+          ],
+          "quantity": 3,
+          "stock": [
+            {
+              "size": "38",
+              "quantity": 0
+            },
+            {
+              "size": "39",
+              "quantity": 0
+            },
+            {
+              "size": "40",
+              "quantity": 10
+            },
+            {
+              "size": "41",
+              "quantity": 10
+            },
+            {
+              "size": "42",
+              "quantity": 10
+            },
+            {
+              "size": "43",
+              "quantity": 10
+            },
+            {
+              "size": "44",
+              "quantity": 10
+            }
+          ],
+          "totalStock": 50
         }
       ],
       "type": "composite",
-      "stock": 50,
       "description": "Durable and waterproof hiking boots for all terrains.",
       "category": "men's clothing",
       "image": "https://images.pexels.com/photos/6003327/pexels-photo-6003327.jpeg?auto=compress&cs=tinysrgb&w=600",
@@ -537,15 +659,44 @@
       "properties": [
         {
           "color": "green",
-          "quantity": 35,
-          "stock": true,
           "season": "summer",
           "fabric": "cotton",
           "style": "casual",
           "size": [
             {
+              "size": "xs",
+              "quantity": 1
+            },
+            {
               "size": "s",
-              "quantity": 5
+              "quantity": 1
+            },
+            {
+              "size": "m",
+              "quantity": 1
+            },
+            {
+              "size": "l",
+              "quantity": 1
+            },
+            {
+              "size": "xl",
+              "quantity": 1
+            },
+            {
+              "size": "xxl",
+              "quantity": 1
+            }
+          ],
+          "quantity": 6,
+          "stock": [
+            {
+              "size": "xs",
+              "quantity": 10
+            },
+            {
+              "size": "s",
+              "quantity": 10
             },
             {
               "size": "m",
@@ -553,13 +704,18 @@
             },
             {
               "size": "l",
-              "quantity": 10
+              "quantity": 0
             },
             {
               "size": "xl",
               "quantity": 10
+            },
+            {
+              "size": "xxl",
+              "quantity": 10
             }
-          ]
+          ],
+          "totalStock": 50
         }
       ],
       "type": "composite",
@@ -580,28 +736,70 @@
       "properties": [
         {
           "color": "dark blue",
-          "quantity": 70,
-          "stock": true,
           "fabric": "denim",
           "style": "casual",
           "size": [
             {
+              "size": "xs",
+              "quantity": 1
+            },
+            {
               "size": "s",
-              "quantity": 15
+              "quantity": 1
             },
             {
               "size": "m",
-              "quantity": 20
+              "quantity": 1
             },
             {
               "size": "l",
-              "quantity": 20
+              "quantity": 1
             },
             {
               "size": "xl",
-              "quantity": 15
+              "quantity": 1
+            },
+            {
+              "size": "xxl",
+              "quantity": 1
+            },
+            {
+              "size": "xxxl",
+              "quantity": 1
             }
-          ]
+          ],
+          "quantity": 7,
+          "stock": [
+            {
+              "size": "xs",
+              "quantity": 10
+            },
+            {
+              "size": "s",
+              "quantity": 10
+            },
+            {
+              "size": "m",
+              "quantity": 10
+            },
+            {
+              "size": "l",
+              "quantity": 10
+            },
+            {
+              "size": "xl",
+              "quantity": 10
+            },
+            {
+              "size": "xxl",
+              "quantity": 10
+            },
+            {
+              "size": "xxxl",
+              "quantity": 10
+            }
+          ],
+          "totalStock": 70
         }
       ],
       "type": "composite",
@@ -1252,7 +1450,5 @@
     }
   ],
   "sales": [],
-  "carts": [
-    
-  ]
+  "carts": []
 }
