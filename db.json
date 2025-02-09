@@ -439,7 +439,6 @@
         }
       ],
       "type": "composite",
-      "stock": 35,
       "description": "Comfortable and lightweight T-shirts perfect for spring outings.",
       "category": "women's clothing",
       "image": "https://images.pexels.com/photos/9637847/pexels-photo-9637847.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -459,11 +458,11 @@
           "quantity": 1,
           "season": "summer",
           "material": "plastic",
-          "style": "fashion"
+          "style": "fashion",
+          "totalStock": 50
         }
       ],
       "type": "simple",
-      "totalStock": 50,
       "description": "Trendy sunglasses that combine style and UV protection.",
       "category": "jewelry",
       "image": "https://images.pexels.com/photos/30166689/pexels-photo-30166689/free-photo-of-chaqueta-verde-elegante-con-gafas-de-sol.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -482,11 +481,11 @@
           "color": "tan",
           "quantity": 1,
           "material": "leather",
-          "style": "professional"
+          "style": "professional",
+          "totalStock": 20
         }
       ],
       "type": "simple",
-      "stock": 20,
       "description": "Durable leather laptop bag with ample storage for professionals.",
       "category": "electronics",
       "image": "https://images.pexels.com/photos/936081/pexels-photo-936081.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -506,11 +505,11 @@
           "quantity": 1,
           "stock": true,
           "batteryLife": "8 hours",
-          "style": "tech"
+          "style": "tech",
+          "totalStock": 100
         }
       ],
       "type": "simple",
-      "stock": 100,
       "description": "High-quality wireless earbuds with excellent sound clarity.",
       "category": "electronics",
       "image": "https://images.pexels.com/photos/3780681/pexels-photo-3780681.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -528,13 +527,12 @@
         {
           "color": "silver",
           "quantity": 1,
-          "stock": true,
           "material": "stainless steel",
-          "style": "formal"
+          "style": "formal",
+          "totalStock": 50
         }
       ],
       "type": "simple",
-      "stock": 50,
       "description": "Elegant formal wristwatch for men with a minimalist design.",
       "category": "jewelry",
       "image": "https://images.pexels.com/photos/30372903/pexels-photo-30372903.jpeg?auto=compress&cs=tinysrgb&w=600",
@@ -552,13 +550,12 @@
         {
           "color": "red",
           "quantity": 1,
-          "stock": true,
+          "totalStock": 30,
           "material": "synthetic leather",
           "style": "luxury"
         }
       ],
       "type": "simple",
-      "stock": 30,
       "description": "Luxurious designer handbag perfect for all occasions.",
       "category": "women's clothing",
       "image": "https://images.pexels.com/photos/1204460/pexels-photo-1204460.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -719,7 +716,6 @@
         }
       ],
       "type": "composite",
-      "stock": 35,
       "description": "Fun and comfortable graphic T-shirt for Men.",
       "category": "men's clothing",
       "image": "https://images.pexels.com/photos/4101142/pexels-photo-4101142.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -803,7 +799,6 @@
         }
       ],
       "type": "composite",
-      "stock": 70,
       "description": "Stylish high-waisted jeans perfect for any occasion.",
       "category": "men's clothing",
       "image": "https://images.pexels.com/photos/5214139/pexels-photo-5214139.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -813,7 +808,6 @@
       },
       "id": "fffa"
     },
-
     {
       "productId": 11,
       "title": "Men's Classic Denim Jacket",
@@ -946,11 +940,11 @@
           "quantity": 1,
           "material": "nylon",
           "style": "casual",
-          "capacity": "20L"
+          "capacity": "20L",
+          "totalStock": 60
         }
       ],
       "type": "simple",
-      "stock": 60,
       "description": "Durable and spacious backpack for everyday use.",
       "category": "jewelry",
       "image": "https://images.pexels.com/photos/2905238/pexels-photo-2905238.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -1029,11 +1023,11 @@
           "color": "brown",
           "quantity": 1,
           "material": "genuine leather",
-          "style": "luxury"
+          "style": "luxury",
+          "totalStock": 25
         }
       ],
       "type": "simple",
-      "stock": 25,
       "description": "Elegant leather handbag for a sophisticated look.",
       "category": "women's clothing",
       "image": "https://images.pexels.com/photos/934070/pexels-photo-934070.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -1210,11 +1204,11 @@
           "color": "gray",
           "quantity": 1,
           "material": "wool",
-          "style": "warm"
+          "style": "warm",
+          "totalStock": 5
         }
       ],
       "type": "simple",
-      "stock": 50,
       "description": "Soft and warm wool scarf for the winter season.",
       "category": "women's clothing",
       "image": "https://images.pexels.com/photos/2120584/pexels-photo-2120584.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -1233,11 +1227,11 @@
           "color": "brown",
           "quantity": 1,
           "material": "genuine leather",
-          "style": "formal"
+          "style": "formal",
+          "totalStock": 40
         }
       ],
       "type": "simple",
-      "stock": 40,
       "description": "Classic leather belt for a polished look.",
       "category": "men's clothing",
       "image": "https://images.pexels.com/photos/934070/pexels-photo-934070.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -1247,7 +1241,6 @@
       },
       "id": "fffk"
     },
-
     {
       "productId": 21,
       "title": "Wireless Noise-Cancelling Headphones",
@@ -1258,11 +1251,11 @@
           "quantity": 1,
           "batteryLife": "20 hours",
           "connectivity": "Bluetooth 5.0",
+          "totalStock": 50,
           "style": "tech"
         }
       ],
       "type": "simple",
-      "stock": 50,
       "description": "Premium wireless headphones with active noise cancellation for an immersive listening experience.",
       "category": "electronics",
       "image": "https://images.pexels.com/photos/1649771/pexels-photo-1649771.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -1281,12 +1274,16 @@
           "color": "silver",
           "quantity": 1,
           "batteryLife": "7 days",
-          "features": ["heart rate monitor", "GPS", "water-resistant"],
-          "style": "sport"
+          "features": [
+            "heart rate monitor",
+            "GPS",
+            "water-resistant"
+          ],
+          "style": "sport",
+          "totalStock": 30
         }
       ],
       "type": "simple",
-      "stock": 30,
       "description": "Stay connected and track your fitness with this advanced smartwatch.",
       "category": "electronics",
       "image": "https://images.pexels.com/photos/437037/pexels-photo-437037.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -1306,11 +1303,11 @@
           "quantity": 1,
           "batteryLife": "12 hours",
           "connectivity": "Bluetooth 5.0",
+          "totalStock": 40,
           "style": "portable"
         }
       ],
       "type": "simple",
-      "stock": 40,
       "description": "Compact and powerful Bluetooth speaker for music on the go.",
       "category": "electronics",
       "image": "https://images.pexels.com/photos/1646704/pexels-photo-1646704.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -1329,12 +1326,16 @@
           "color": "black",
           "quantity": 1,
           "screenSize": "55 inches",
-          "features": ["4K resolution", "HDR", "Smart TV"],
+          "features": [
+            "4K resolution",
+            "HDR",
+            "Smart TV"
+          ],
+          "totalStock": 20,
           "style": "home entertainment"
         }
       ],
       "type": "simple",
-      "stock": 20,
       "description": "Experience stunning visuals with this 4K Ultra HD Smart TV.",
       "category": "electronics",
       "image": "https://images.pexels.com/photos/5721908/pexels-photo-5721908.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -1352,12 +1353,17 @@
         {
           "color": "gray",
           "quantity": 1,
-          "specs": ["Intel i7", "16GB RAM", "1TB SSD", "NVIDIA RTX 3060"],
-          "style": "gaming"
+          "specs": [
+            "Intel i7",
+            "16GB RAM",
+            "1TB SSD",
+            "NVIDIA RTX 3060"
+          ],
+          "style": "gaming",
+          "totalStock": 15
         }
       ],
       "type": "simple",
-      "stock": 15,
       "description": "High-performance gaming laptop for the ultimate gaming experience.",
       "category": "electronics",
       "image": "https://images.pexels.com/photos/2047905/pexels-photo-2047905.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -1367,7 +1373,6 @@
       },
       "id": "fffp"
     },
-
     {
       "productId": 26,
       "title": "Gold-Plated Necklace",
@@ -1377,11 +1382,11 @@
           "color": "gold",
           "quantity": 1,
           "material": "gold-plated",
-          "style": "elegant"
+          "style": "elegant",
+          "totalStock": 25
         }
       ],
       "type": "simple",
-      "stock": 25,
       "description": "Elegant gold-plated necklace for a sophisticated look.",
       "category": "jewelry",
       "image": "https://images.pexels.com/photos/3266700/pexels-photo-3266700.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -1400,11 +1405,11 @@
           "color": "silver",
           "quantity": 1,
           "material": "sterling silver",
+          "totalStock": 40,
           "style": "casual"
         }
       ],
       "type": "simple",
-      "stock": 40,
       "description": "Classic silver hoop earrings for everyday wear.",
       "category": "jewelry",
       "image": "https://images.pexels.com/photos/3266703/pexels-photo-3266703.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -1423,11 +1428,11 @@
           "color": "silver",
           "quantity": 1,
           "material": "platinum",
-          "style": "luxury"
+          "style": "luxury",
+          "totalStock": 10
         }
       ],
       "type": "simple",
-      "stock": 10,
       "description": "Exquisite diamond engagement ring for a lifetime of love.",
       "category": "jewelry",
       "image": "https://images.pexels.com/photos/3266701/pexels-photo-3266701.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -1446,11 +1451,11 @@
           "color": "rose gold",
           "quantity": 1,
           "material": "rose gold-plated",
-          "style": "chic"
+          "style": "chic",
+          "totalStock": 30
         }
       ],
       "type": "simple",
-      "stock": 30,
       "description": "Chic rose gold bracelet to complement any outfit.",
       "category": "jewelry",
       "image": "https://images.pexels.com/photos/3266702/pexels-photo-3266702.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -1469,11 +1474,11 @@
           "color": "white",
           "quantity": 1,
           "material": "pearl",
-          "style": "classic"
+          "style": "classic",
+          "totalStock": 35
         }
       ],
       "type": "simple",
-      "stock": 35,
       "description": "Timeless pearl stud earrings for a refined look.",
       "category": "jewelry",
       "image": "https://images.pexels.com/photos/30516182/pexels-photo-30516182/free-photo-of-elegante-retrato-de-novia-con-collar-de-perlas-y-lirio.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
