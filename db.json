@@ -503,7 +503,6 @@
         {
           "color": "black",
           "quantity": 1,
-          "stock": true,
           "batteryLife": "8 hours",
           "style": "tech",
           "totalStock": 100
@@ -605,7 +604,7 @@
               "quantity": 1
             }
           ],
-          "quantity": 3,
+          "quantity": 7,
           "stock": [
             {
               "size": "38",
@@ -689,7 +688,7 @@
           "stock": [
             {
               "size": "xs",
-              "quantity": 10
+              "quantity": 0
             },
             {
               "size": "s",
@@ -2125,5 +2124,7 @@
     }
   ],
   "sales": [],
-  "carts": []
+  "carts": [
+   
+  ]
 }
