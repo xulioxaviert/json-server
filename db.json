@@ -1842,418 +1842,416 @@
   "sales": [],
   "carts": [],
   "stock": [
-    [
-      {
-        "id": "fff9",
-        "productId": 1,
-        "stock": [
-          {
-            "size": "xs",
-            "quantity": 10
-          },
-          {
-            "size": "s",
-            "quantity": 10
-          },
-          {
-            "size": "m",
-            "quantity": 10
-          },
-          {
-            "size": "l",
-            "quantity": 10
-          },
-          {
-            "size": "xl",
-            "quantity": 10
-          },
-          {
-            "size": "xxl",
-            "quantity": 10
-          },
-          {
-            "size": "xxxl",
-            "quantity": 10
-          }
-        ],
-        "totalStock": 70
-      },
-      {
-        "id": "fff2",
-        "productId": 2,
-        "stock": [
-          {
-            "size": "xs",
-            "quantity": 10
-          },
-          {
-            "size": "s",
-            "quantity": 10
-          },
-          {
-            "size": "m",
-            "quantity": 10
-          },
-          {
-            "size": "l",
-            "quantity": 10
-          },
-          {
-            "size": "xl",
-            "quantity": 10
-          },
-          {
-            "size": "xxl",
-            "quantity": 10
-          },
-          {
-            "size": "xxxl",
-            "quantity": 10
-          }
-        ],
-        "totalStock": 70
-      },
-      {
-        "id": "fff3",
-        "productId": 3,
-        "stock": [],
-        "totalStock": 50
-      },
-      {
-        "id": "fff4",
-        "productId": 4,
-        "stock": [],
-        "totalStock": 20
-      },
-      {
-        "id": "fff5",
-        "productId": 5,
-        "stock": [],
-        "totalStock": 100
-      },
-      {
-        "id": "fff6",
-        "productId": 6,
-        "stock": [],
-        "totalStock": 50
-      },
-      {
-        "id": "fff7",
-        "productId": 7,
-        "stock": [],
-        "totalStock": 30
-      },
-      {
-        "id": "fff8",
-        "productId": 8,
-        "stock": [
-          {
-            "size": "38",
-            "quantity": 0
-          },
-          {
-            "size": "39",
-            "quantity": 0
-          },
-          {
-            "size": "40",
-            "quantity": 10
-          },
-          {
-            "size": "41",
-            "quantity": 10
-          },
-          {
-            "size": "42",
-            "quantity": 10
-          },
-          {
-            "size": "43",
-            "quantity": 10
-          },
-          {
-            "size": "44",
-            "quantity": 10
-          }
-        ],
-        "totalStock": 50
-      },
-      {
-        "id": "trs9",
-        "productId": 9,
-        "stock": [
-          {
-            "size": "xs",
-            "quantity": 0
-          },
-          {
-            "size": "s",
-            "quantity": 10
-          },
-          {
-            "size": "m",
-            "quantity": 10
-          },
-          {
-            "size": "l",
-            "quantity": 0
-          },
-          {
-            "size": "xl",
-            "quantity": 10
-          },
-          {
-            "size": "xxl",
-            "quantity": 10
-          }
-        ],
-        "totalStock": 50
-      },
-      {
-        "id": "fffa",
-        "productId": 10,
-        "stock": [
-          {
-            "size": "xs",
-            "quantity": 10
-          },
-          {
-            "size": "s",
-            "quantity": 10
-          },
-          {
-            "size": "m",
-            "quantity": 10
-          },
-          {
-            "size": "l",
-            "quantity": 10
-          },
-          {
-            "size": "xl",
-            "quantity": 10
-          },
-          {
-            "size": "xxl",
-            "quantity": 10
-          },
-          {
-            "size": "xxxl",
-            "quantity": 10
-          }
-        ],
-        "totalStock": 70
-      },
-      {
-        "id": "fffb",
-        "productId": 11,
-        "stock": [
-          {
-            "size": "s",
-            "quantity": 10
-          },
-          {
-            "size": "m",
-            "quantity": 10
-          },
-          {
-            "size": "l",
-            "quantity": 10
-          },
-          {
-            "size": "xl",
-            "quantity": 10
-          }
-        ],
-        "totalStock": 40
-      },
-      {
-        "id": "fffc",
-        "productId": 12,
-        "stock": [
-          {
-            "size": "xs",
-            "quantity": 10
-          },
-          {
-            "size": "s",
-            "quantity": 10
-          },
-          {
-            "size": "m",
-            "quantity": 10
-          },
-          {
-            "size": "l",
-            "quantity": 10
-          }
-        ],
-        "totalStock": 40
-      },
-      {
-        "id": "fffd",
-        "productId": 13,
-        "stock": [],
-        "totalStock": 60
-      },
-      {
-        "id": "fffe",
-        "productId": 14,
-        "stock": [
-          {
-            "size": "40",
-            "quantity": 10
-          },
-          {
-            "size": "41",
-            "quantity": 10
-          },
-          {
-            "size": "42",
-            "quantity": 10
-          },
-          {
-            "size": "43",
-            "quantity": 10
-          }
-        ],
-        "totalStock": 40
-      },
-      {
-        "id": "ffff",
-        "productId": 15,
-        "stock": [],
-        "totalStock": 25
-      },
-      {
-        "id": "fffg",
-        "productId": 16,
-        "stock": [
-          {
-            "size": "m",
-            "quantity": 10
-          },
-          {
-            "size": "l",
-            "quantity": 10
-          },
-          {
-            "size": "xl",
-            "quantity": 10
-          }
-        ],
-        "totalStock": 30
-      },
-      {
-        "id": "fffh",
-        "productId": 17,
-        "stock": [
-          {
-            "size": "36",
-            "quantity": 10
-          },
-          {
-            "size": "37",
-            "quantity": 10
-          },
-          {
-            "size": "38",
-            "quantity": 10
-          }
-        ],
-        "totalStock": 30
-      },
-      {
-        "id": "fffi",
-        "productId": 18,
-        "stock": [
-          {
-            "size": "s",
-            "quantity": 10
-          },
-          {
-            "size": "m",
-            "quantity": 10
-          },
-          {
-            "size": "l",
-            "quantity": 10
-          }
-        ],
-        "totalStock": 30
-      },
-      {
-        "id": "fffj",
-        "productId": 19,
-        "stock": [],
-        "totalStock": 5
-      },
-      {
-        "id": "fffk",
-        "productId": 20,
-        "stock": [],
-        "totalStock": 40
-      },
-      {
-        "id": "fffl",
-        "productId": 21,
-        "stock": [],
-        "totalStock": 50
-      },
-      {
-        "id": "fffm",
-        "productId": 22,
-        "stock": [],
-        "totalStock": 30
-      },
-      {
-        "id": "fffn",
-        "productId": 23,
-        "stock": [],
-        "totalStock": 40
-      },
-      {
-        "id": "fffo",
-        "productId": 24,
-        "stock": [],
-        "totalStock": 20
-      },
-      {
-        "id": "fffp",
-        "productId": 25,
-        "stock": [],
-        "totalStock": 15
-      },
-      {
-        "id": "fffq",
-        "productId": 26,
-        "stock": [],
-        "totalStock": 25
-      },
-      {
-        "id": "fffr",
-        "productId": 27,
-        "stock": [],
-        "totalStock": 40
-      },
-      {
-        "id": "fffs",
-        "productId": 28,
-        "stock": [],
-        "totalStock": 10
-      },
-      {
-        "id": "ffft",
-        "productId": 29,
-        "stock": [],
-        "totalStock": 30
-      },
-      {
-        "id": "fffu",
-        "productId": 30,
-        "stock": [],
-        "totalStock": 35
-      }
-    ]
+    {
+      "id": "fff9",
+      "productId": 1,
+      "stock": [
+        {
+          "size": "xs",
+          "quantity": 10
+        },
+        {
+          "size": "s",
+          "quantity": 10
+        },
+        {
+          "size": "m",
+          "quantity": 10
+        },
+        {
+          "size": "l",
+          "quantity": 10
+        },
+        {
+          "size": "xl",
+          "quantity": 10
+        },
+        {
+          "size": "xxl",
+          "quantity": 10
+        },
+        {
+          "size": "xxxl",
+          "quantity": 10
+        }
+      ],
+      "totalStock": 70
+    },
+    {
+      "id": "fff2",
+      "productId": 2,
+      "stock": [
+        {
+          "size": "xs",
+          "quantity": 10
+        },
+        {
+          "size": "s",
+          "quantity": 10
+        },
+        {
+          "size": "m",
+          "quantity": 10
+        },
+        {
+          "size": "l",
+          "quantity": 10
+        },
+        {
+          "size": "xl",
+          "quantity": 10
+        },
+        {
+          "size": "xxl",
+          "quantity": 10
+        },
+        {
+          "size": "xxxl",
+          "quantity": 10
+        }
+      ],
+      "totalStock": 70
+    },
+    {
+      "id": "fff3",
+      "productId": 3,
+      "stock": [],
+      "totalStock": 50
+    },
+    {
+      "id": "fff4",
+      "productId": 4,
+      "stock": [],
+      "totalStock": 20
+    },
+    {
+      "id": "fff5",
+      "productId": 5,
+      "stock": [],
+      "totalStock": 100
+    },
+    {
+      "id": "fff6",
+      "productId": 6,
+      "stock": [],
+      "totalStock": 50
+    },
+    {
+      "id": "fff7",
+      "productId": 7,
+      "stock": [],
+      "totalStock": 30
+    },
+    {
+      "id": "fff8",
+      "productId": 8,
+      "stock": [
+        {
+          "size": "38",
+          "quantity": 0
+        },
+        {
+          "size": "39",
+          "quantity": 0
+        },
+        {
+          "size": "40",
+          "quantity": 10
+        },
+        {
+          "size": "41",
+          "quantity": 10
+        },
+        {
+          "size": "42",
+          "quantity": 10
+        },
+        {
+          "size": "43",
+          "quantity": 10
+        },
+        {
+          "size": "44",
+          "quantity": 10
+        }
+      ],
+      "totalStock": 50
+    },
+    {
+      "id": "trs9",
+      "productId": 9,
+      "stock": [
+        {
+          "size": "xs",
+          "quantity": 0
+        },
+        {
+          "size": "s",
+          "quantity": 10
+        },
+        {
+          "size": "m",
+          "quantity": 10
+        },
+        {
+          "size": "l",
+          "quantity": 0
+        },
+        {
+          "size": "xl",
+          "quantity": 10
+        },
+        {
+          "size": "xxl",
+          "quantity": 10
+        }
+      ],
+      "totalStock": 50
+    },
+    {
+      "id": "fffa",
+      "productId": 10,
+      "stock": [
+        {
+          "size": "xs",
+          "quantity": 10
+        },
+        {
+          "size": "s",
+          "quantity": 10
+        },
+        {
+          "size": "m",
+          "quantity": 10
+        },
+        {
+          "size": "l",
+          "quantity": 10
+        },
+        {
+          "size": "xl",
+          "quantity": 10
+        },
+        {
+          "size": "xxl",
+          "quantity": 10
+        },
+        {
+          "size": "xxxl",
+          "quantity": 10
+        }
+      ],
+      "totalStock": 70
+    },
+    {
+      "id": "fffb",
+      "productId": 11,
+      "stock": [
+        {
+          "size": "s",
+          "quantity": 10
+        },
+        {
+          "size": "m",
+          "quantity": 10
+        },
+        {
+          "size": "l",
+          "quantity": 10
+        },
+        {
+          "size": "xl",
+          "quantity": 10
+        }
+      ],
+      "totalStock": 40
+    },
+    {
+      "id": "fffc",
+      "productId": 12,
+      "stock": [
+        {
+          "size": "xs",
+          "quantity": 10
+        },
+        {
+          "size": "s",
+          "quantity": 10
+        },
+        {
+          "size": "m",
+          "quantity": 10
+        },
+        {
+          "size": "l",
+          "quantity": 10
+        }
+      ],
+      "totalStock": 40
+    },
+    {
+      "id": "fffd",
+      "productId": 13,
+      "stock": [],
+      "totalStock": 60
+    },
+    {
+      "id": "fffe",
+      "productId": 14,
+      "stock": [
+        {
+          "size": "40",
+          "quantity": 10
+        },
+        {
+          "size": "41",
+          "quantity": 10
+        },
+        {
+          "size": "42",
+          "quantity": 10
+        },
+        {
+          "size": "43",
+          "quantity": 10
+        }
+      ],
+      "totalStock": 40
+    },
+    {
+      "id": "ffff",
+      "productId": 15,
+      "stock": [],
+      "totalStock": 25
+    },
+    {
+      "id": "fffg",
+      "productId": 16,
+      "stock": [
+        {
+          "size": "m",
+          "quantity": 10
+        },
+        {
+          "size": "l",
+          "quantity": 10
+        },
+        {
+          "size": "xl",
+          "quantity": 10
+        }
+      ],
+      "totalStock": 30
+    },
+    {
+      "id": "fffh",
+      "productId": 17,
+      "stock": [
+        {
+          "size": "36",
+          "quantity": 10
+        },
+        {
+          "size": "37",
+          "quantity": 10
+        },
+        {
+          "size": "38",
+          "quantity": 10
+        }
+      ],
+      "totalStock": 30
+    },
+    {
+      "id": "fffi",
+      "productId": 18,
+      "stock": [
+        {
+          "size": "s",
+          "quantity": 10
+        },
+        {
+          "size": "m",
+          "quantity": 10
+        },
+        {
+          "size": "l",
+          "quantity": 10
+        }
+      ],
+      "totalStock": 30
+    },
+    {
+      "id": "fffj",
+      "productId": 19,
+      "stock": [],
+      "totalStock": 5
+    },
+    {
+      "id": "fffk",
+      "productId": 20,
+      "stock": [],
+      "totalStock": 40
+    },
+    {
+      "id": "fffl",
+      "productId": 21,
+      "stock": [],
+      "totalStock": 50
+    },
+    {
+      "id": "fffm",
+      "productId": 22,
+      "stock": [],
+      "totalStock": 30
+    },
+    {
+      "id": "fffn",
+      "productId": 23,
+      "stock": [],
+      "totalStock": 40
+    },
+    {
+      "id": "fffo",
+      "productId": 24,
+      "stock": [],
+      "totalStock": 20
+    },
+    {
+      "id": "fffp",
+      "productId": 25,
+      "stock": [],
+      "totalStock": 15
+    },
+    {
+      "id": "fffq",
+      "productId": 26,
+      "stock": [],
+      "totalStock": 25
+    },
+    {
+      "id": "fffr",
+      "productId": 27,
+      "stock": [],
+      "totalStock": 40
+    },
+    {
+      "id": "fffs",
+      "productId": 28,
+      "stock": [],
+      "totalStock": 10
+    },
+    {
+      "id": "ffft",
+      "productId": 29,
+      "stock": [],
+      "totalStock": 30
+    },
+    {
+      "id": "fffu",
+      "productId": 30,
+      "stock": [],
+      "totalStock": 35
+    }
   ]
 }
