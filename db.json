@@ -277,933 +277,7 @@
       "id": "eea9"
     }
   ],
-  "products": [
-    {
-      "productId": 1,
-      "title": "Men's Casual Premium Slim Fit T-Shirts",
-      "price": 22.3,
-      "properties": [
-        {
-          "color": "black",
-          "size": [
-            {
-              "size": "xs",
-              "quantity": 1
-            },
-            {
-              "size": "s",
-              "quantity": 1
-            },
-            {
-              "size": "m",
-              "quantity": 1
-            },
-            {
-              "size": "l",
-              "quantity": 1
-            },
-            {
-              "size": "xl",
-              "quantity": 1
-            },
-            {
-              "size": "xxl",
-              "quantity": 1
-            },
-            {
-              "size": "xxl",
-              "quantity": 1
-            }
-          ],
-          "quantity": 7,
-          "season": "summer",
-          "fabric": "cotton",
-          "fit": "slim",
-          "style": "casual"
-        }
-      ],
-      "type": "composite",
-      "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, lightweight & soft fabric for breathable and comfortable wearing.",
-      "category": "men's clothing",
-      "image": "https://cdn.pixabay.com/photo/2023/12/20/03/29/men-8458815_1280.jpg",
-      "rating": {
-        "rate": 4.1,
-        "count": 259
-      },
-      "id": "fff9"
-    },
-    {
-      "productId": 2,
-      "title": "Women's Casual T-Shirts",
-      "price": 19.99,
-      "properties": [
-        {
-          "color": "red",
-          "size": [
-            {
-              "size": "xs",
-              "quantity": 1
-            },
-            {
-              "size": "s",
-              "quantity": 1
-            },
-            {
-              "size": "m",
-              "quantity": 1
-            },
-            {
-              "size": "l",
-              "quantity": 1
-            },
-            {
-              "size": "xl",
-              "quantity": 1
-            },
-            {
-              "size": "xxl",
-              "quantity": 1
-            },
-            {
-              "size": "xxxl",
-              "quantity": 1
-            }
-          ],
-          "quantity": 7,
-          "season": "spring",
-          "fabric": "linen",
-          "fit": "loose",
-          "style": "casual"
-        }
-      ],
-      "type": "composite",
-      "description": "Comfortable and lightweight T-shirts perfect for spring outings.",
-      "category": "women's clothing",
-      "image": "https://images.pexels.com/photos/9637847/pexels-photo-9637847.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "rating": {
-        "rate": 4.5,
-        "count": 305
-      },
-      "id": "fff2"
-    },
-    {
-      "productId": 3,
-      "title": "Stylish Sunglasses",
-      "price": 9.99,
-      "properties": [
-        {
-          "color": "brown",
-          "quantity": 1,
-          "season": "summer",
-          "material": "plastic",
-          "style": "fashion"
-        }
-      ],
-      "type": "simple",
-      "description": "Trendy sunglasses that combine style and UV protection.",
-      "category": "jewelry",
-      "image": "https://images.pexels.com/photos/30166689/pexels-photo-30166689/free-photo-of-chaqueta-verde-elegante-con-gafas-de-sol.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "rating": {
-        "rate": 4,
-        "count": 120
-      },
-      "id": "fff3"
-    },
-    {
-      "productId": 4,
-      "title": "Leather Laptop Bag",
-      "price": 89.99,
-      "properties": [
-        {
-          "color": "tan",
-          "quantity": 1,
-          "material": "leather",
-          "style": "professional"
-        }
-      ],
-      "type": "simple",
-      "description": "Durable leather laptop bag with ample storage for professionals.",
-      "category": "electronics",
-      "image": "https://images.pexels.com/photos/936081/pexels-photo-936081.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "rating": {
-        "rate": 4.7,
-        "count": 70
-      },
-      "id": "fff4"
-    },
-    {
-      "productId": 5,
-      "title": "Wireless Earbuds",
-      "price": 59.99,
-      "properties": [
-        {
-          "color": "black",
-          "quantity": 1,
-          "batteryLife": "8 hours",
-          "style": "tech"
-        }
-      ],
-      "type": "simple",
-      "description": "High-quality wireless earbuds with excellent sound clarity.",
-      "category": "electronics",
-      "image": "https://images.pexels.com/photos/3780681/pexels-photo-3780681.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "rating": {
-        "rate": 4.4,
-        "count": 150
-      },
-      "id": "fff5"
-    },
-    {
-      "productId": 6,
-      "title": "Formal Men's Watch",
-      "price": 199.99,
-      "properties": [
-        {
-          "color": "silver",
-          "quantity": 1,
-          "material": "stainless steel",
-          "style": "formal"
-        }
-      ],
-      "type": "simple",
-      "description": "Elegant formal wristwatch for men with a minimalist design.",
-      "category": "jewelry",
-      "image": "https://images.pexels.com/photos/30372903/pexels-photo-30372903.jpeg?auto=compress&cs=tinysrgb&w=600",
-      "rating": {
-        "rate": 4.6,
-        "count": 220
-      },
-      "id": "fff6"
-    },
-    {
-      "productId": 7,
-      "title": "Women's Designer Handbag",
-      "price": 120,
-      "properties": [
-        {
-          "color": "red",
-          "quantity": 1,
-          "material": "synthetic leather",
-          "style": "luxury"
-        }
-      ],
-      "type": "simple",
-      "description": "Luxurious designer handbag perfect for all occasions.",
-      "category": "women's clothing",
-      "image": "https://images.pexels.com/photos/1204460/pexels-photo-1204460.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "rating": {
-        "rate": 4.5,
-        "count": 175
-      },
-      "id": "fff7"
-    },
-    {
-      "productId": 8,
-      "title": "Men's Waterproof Hiking Boots",
-      "price": 75,
-      "properties": [
-        {
-          "color": "brown",
-          "season": "all-season",
-          "material": "leather",
-          "style": "outdoor",
-          "size": [
-            {
-              "size": "38",
-              "quantity": 1
-            },
-            {
-              "size": "39",
-              "quantity": 1
-            },
-            {
-              "size": "40",
-              "quantity": 1
-            },
-            {
-              "size": "41",
-              "quantity": 1
-            },
-            {
-              "size": "42",
-              "quantity": 1
-            },
-            {
-              "size": "43",
-              "quantity": 1
-            },
-            {
-              "size": "44",
-              "quantity": 1
-            }
-          ],
-          "quantity": 7
-        }
-      ],
-      "type": "composite",
-      "description": "Durable and waterproof hiking boots for all terrains.",
-      "category": "men's clothing",
-      "image": "https://images.pexels.com/photos/6003327/pexels-photo-6003327.jpeg?auto=compress&cs=tinysrgb&w=600",
-      "rating": {
-        "rate": 4.8,
-        "count": 200
-      },
-      "id": "fff8"
-    },
-    {
-      "productId": 9,
-      "title": "Men' Graphic T-Shirt",
-      "price": 12.99,
-      "properties": [
-        {
-          "color": "green",
-          "season": "summer",
-          "fabric": "cotton",
-          "style": "casual",
-          "size": [
-            {
-              "size": "xs",
-              "quantity": 1
-            },
-            {
-              "size": "s",
-              "quantity": 1
-            },
-            {
-              "size": "m",
-              "quantity": 1
-            },
-            {
-              "size": "l",
-              "quantity": 1
-            },
-            {
-              "size": "xl",
-              "quantity": 1
-            },
-            {
-              "size": "xxl",
-              "quantity": 1
-            }
-          ],
-          "quantity": 6
-        }
-      ],
-      "type": "composite",
-      "description": "Fun and comfortable graphic T-shirt for Men.",
-      "category": "men's clothing",
-      "image": "https://images.pexels.com/photos/4101142/pexels-photo-4101142.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "rating": {
-        "rate": 4.3,
-        "count": 110
-      },
-      "id": "trs9"
-    },
-    {
-      "productId": 10,
-      "title": "Women's High-Waisted Jeans",
-      "price": 45.5,
-      "properties": [
-        {
-          "color": "dark blue",
-          "fabric": "denim",
-          "style": "casual",
-          "size": [
-            {
-              "size": "xs",
-              "quantity": 1
-            },
-            {
-              "size": "s",
-              "quantity": 1
-            },
-            {
-              "size": "m",
-              "quantity": 1
-            },
-            {
-              "size": "l",
-              "quantity": 1
-            },
-            {
-              "size": "xl",
-              "quantity": 1
-            },
-            {
-              "size": "xxl",
-              "quantity": 1
-            },
-            {
-              "size": "xxxl",
-              "quantity": 1
-            }
-          ],
-          "quantity": 7
-        }
-      ],
-      "type": "composite",
-      "description": "Stylish high-waisted jeans perfect for any occasion.",
-      "category": "men's clothing",
-      "image": "https://images.pexels.com/photos/5214139/pexels-photo-5214139.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "rating": {
-        "rate": 4.6,
-        "count": 350
-      },
-      "id": "fffa"
-    },
-    {
-      "productId": 11,
-      "title": "Men's Classic Denim Jacket",
-      "price": 65.99,
-      "properties": [
-        {
-          "color": "blue",
-          "size": [
-            {
-              "size": "s",
-              "quantity": 1
-            },
-            {
-              "size": "m",
-              "quantity": 1
-            },
-            {
-              "size": "l",
-              "quantity": 1
-            },
-            {
-              "size": "xl",
-              "quantity": 1
-            }
-          ],
-          "quantity": 4,
-          "season": "fall",
-          "fabric": "denim",
-          "fit": "regular",
-          "style": "casual"
-        }
-      ],
-      "type": "composite",
-      "description": "Timeless denim jacket for a rugged yet stylish look.",
-      "category": "men's clothing",
-      "image": "https://images.pexels.com/photos/2229712/pexels-photo-2229712.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "rating": {
-        "rate": 4.7,
-        "count": 180
-      },
-      "id": "fffb"
-    },
-    {
-      "productId": 12,
-      "title": "Women's Floral Summer Dress",
-      "price": 34.99,
-      "properties": [
-        {
-          "color": "multicolor",
-          "size": [
-            {
-              "size": "xs",
-              "quantity": 1
-            },
-            {
-              "size": "s",
-              "quantity": 1
-            },
-            {
-              "size": "m",
-              "quantity": 1
-            },
-            {
-              "size": "l",
-              "quantity": 1
-            }
-          ],
-          "quantity": 4,
-          "season": "summer",
-          "fabric": "polyester",
-          "fit": "loose",
-          "style": "casual"
-        }
-      ],
-      "type": "composite",
-      "description": "Light and breezy floral dress perfect for summer days.",
-      "category": "women's clothing",
-      "image": "https://images.pexels.com/photos/3731256/pexels-photo-3731256.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "rating": {
-        "rate": 4.6,
-        "count": 210
-      },
-      "id": "fffc"
-    },
-    {
-      "productId": 13,
-      "title": "Unisex Backpack",
-      "price": 49.99,
-      "properties": [
-        {
-          "color": "black",
-          "quantity": 1,
-          "material": "nylon",
-          "style": "casual",
-          "capacity": "20L"
-        }
-      ],
-      "type": "simple",
-      "description": "Durable and spacious backpack for everyday use.",
-      "category": "jewelry",
-      "image": "https://images.pexels.com/photos/2905238/pexels-photo-2905238.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "rating": {
-        "rate": 4.5,
-        "count": 150
-      },
-      "id": "fffd"
-    },
-    {
-      "productId": 14,
-      "title": "Men's Running Shoes",
-      "price": 79.99,
-      "properties": [
-        {
-          "color": "gray",
-          "size": [
-            {
-              "size": "40",
-              "quantity": 1
-            },
-            {
-              "size": "41",
-              "quantity": 1
-            },
-            {
-              "size": "42",
-              "quantity": 1
-            },
-            {
-              "size": "43",
-              "quantity": 1
-            }
-          ],
-          "quantity": 4,
-          "season": "all-season",
-          "material": "mesh",
-          "style": "sport"
-        }
-      ],
-      "type": "composite",
-      "description": "Comfortable and lightweight running shoes for men.",
-      "category": "men's clothing",
-      "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "rating": {
-        "rate": 4.8,
-        "count": 250
-      },
-      "id": "fffe"
-    },
-    {
-      "productId": 15,
-      "title": "Women's Leather Handbag",
-      "price": 99.99,
-      "properties": [
-        {
-          "color": "brown",
-          "quantity": 1,
-          "material": "genuine leather",
-          "style": "luxury"
-        }
-      ],
-      "type": "simple",
-      "description": "Elegant leather handbag for a sophisticated look.",
-      "category": "women's clothing",
-      "image": "https://images.pexels.com/photos/934070/pexels-photo-934070.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "rating": {
-        "rate": 4.7,
-        "count": 190
-      },
-      "id": "ffff"
-    },
-    {
-      "productId": 16,
-      "title": "Men's Wool Coat",
-      "price": 129.99,
-      "properties": [
-        {
-          "color": "navy",
-          "size": [
-            {
-              "size": "m",
-              "quantity": 1
-            },
-            {
-              "size": "l",
-              "quantity": 1
-            },
-            {
-              "size": "xl",
-              "quantity": 1
-            }
-          ],
-          "quantity": 3,
-          "season": "winter",
-          "fabric": "wool",
-          "fit": "regular",
-          "style": "formal"
-        }
-      ],
-      "type": "composite",
-      "description": "Warm and stylish wool coat for the winter season.",
-      "category": "men's clothing",
-      "image": "https://images.pexels.com/photos/1643025/pexels-photo-1643025.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "rating": {
-        "rate": 4.9,
-        "count": 300
-      },
-      "id": "fffg"
-    },
-    {
-      "productId": 17,
-      "title": "Women's Sneakers",
-      "price": 59.99,
-      "properties": [
-        {
-          "color": "white",
-          "size": [
-            {
-              "size": "36",
-              "quantity": 1
-            },
-            {
-              "size": "37",
-              "quantity": 1
-            },
-            {
-              "size": "38",
-              "quantity": 1
-            }
-          ],
-          "quantity": 3,
-          "totalStock": 30,
-          "season": "all-season",
-          "material": "synthetic",
-          "style": "sport"
-        }
-      ],
-      "type": "composite",
-      "description": "Comfortable and stylish sneakers for women.",
-      "category": "women's clothing",
-      "image": "https://images.pexels.com/photos/2529146/pexels-photo-2529146.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "rating": {
-        "rate": 4.6,
-        "count": 200
-      },
-      "id": "fffh"
-    },
-    {
-      "productId": 18,
-      "title": "Men's Polo Shirt",
-      "price": 29.99,
-      "properties": [
-        {
-          "color": "navy",
-          "size": [
-            {
-              "size": "s",
-              "quantity": 1
-            },
-            {
-              "size": "m",
-              "quantity": 1
-            },
-            {
-              "size": "l",
-              "quantity": 1
-            }
-          ],
-          "quantity": 3,
-          "season": "summer",
-          "fabric": "cotton",
-          "fit": "regular",
-          "style": "casual"
-        }
-      ],
-      "type": "composite",
-      "description": "Classic polo shirt for a smart casual look.",
-      "category": "men's clothing",
-      "image": "https://images.pexels.com/photos/769733/pexels-photo-769733.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "rating": {
-        "rate": 4.5,
-        "count": 170
-      },
-      "id": "fffi"
-    },
-    {
-      "productId": 19,
-      "title": "Women's Winter Scarf",
-      "price": 24.99,
-      "properties": [
-        {
-          "color": "gray",
-          "quantity": 1,
-          "material": "wool",
-          "style": "warm"
-        }
-      ],
-      "type": "simple",
-      "description": "Soft and warm wool scarf for the winter season.",
-      "category": "women's clothing",
-      "image": "https://images.pexels.com/photos/2120584/pexels-photo-2120584.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "rating": {
-        "rate": 4.4,
-        "count": 140
-      },
-      "id": "fffj"
-    },
-    {
-      "productId": 20,
-      "title": "Men's Leather Belt",
-      "price": 19.99,
-      "properties": [
-        {
-          "color": "brown",
-          "quantity": 1,
-          "material": "genuine leather",
-          "style": "formal"
-        }
-      ],
-      "type": "simple",
-      "description": "Classic leather belt for a polished look.",
-      "category": "men's clothing",
-      "image": "https://images.pexels.com/photos/934070/pexels-photo-934070.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "rating": {
-        "rate": 4.3,
-        "count": 130
-      },
-      "id": "fffk"
-    },
-    {
-      "productId": 21,
-      "title": "Wireless Noise-Cancelling Headphones",
-      "price": 149.99,
-      "properties": [
-        {
-          "color": "black",
-          "quantity": 1,
-          "batteryLife": "20 hours",
-          "connectivity": "Bluetooth 5.0",
-          "style": "tech"
-        }
-      ],
-      "type": "simple",
-      "description": "Premium wireless headphones with active noise cancellation for an immersive listening experience.",
-      "category": "electronics",
-      "image": "https://images.pexels.com/photos/1649771/pexels-photo-1649771.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "rating": {
-        "rate": 4.8,
-        "count": 300
-      },
-      "id": "fffl"
-    },
-    {
-      "productId": 22,
-      "title": "Smartwatch with Heart Rate Monitor",
-      "price": 199.99,
-      "properties": [
-        {
-          "color": "silver",
-          "quantity": 1,
-          "batteryLife": "7 days",
-          "features": ["heart rate monitor", "GPS", "water-resistant"],
-          "style": "sport"
-        }
-      ],
-      "type": "simple",
-      "description": "Stay connected and track your fitness with this advanced smartwatch.",
-      "category": "electronics",
-      "image": "https://images.pexels.com/photos/437037/pexels-photo-437037.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "rating": {
-        "rate": 4.7,
-        "count": 250
-      },
-      "id": "fffm"
-    },
-    {
-      "productId": 23,
-      "title": "Portable Bluetooth Speaker",
-      "price": 79.99,
-      "properties": [
-        {
-          "color": "blue",
-          "quantity": 1,
-          "batteryLife": "12 hours",
-          "connectivity": "Bluetooth 5.0",
-          "style": "portable"
-        }
-      ],
-      "type": "simple",
-      "description": "Compact and powerful Bluetooth speaker for music on the go.",
-      "category": "electronics",
-      "image": "https://images.pexels.com/photos/1646704/pexels-photo-1646704.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "rating": {
-        "rate": 4.6,
-        "count": 200
-      },
-      "id": "fffn"
-    },
-    {
-      "productId": 24,
-      "title": "4K Ultra HD Smart TV",
-      "price": 799.99,
-      "properties": [
-        {
-          "color": "black",
-          "quantity": 1,
-          "screenSize": "55 inches",
-          "features": ["4K resolution", "HDR", "Smart TV"],
-          "style": "home entertainment"
-        }
-      ],
-      "type": "simple",
-      "description": "Experience stunning visuals with this 4K Ultra HD Smart TV.",
-      "category": "electronics",
-      "image": "https://images.pexels.com/photos/5721908/pexels-photo-5721908.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "rating": {
-        "rate": 4.9,
-        "count": 400
-      },
-      "id": "fffo"
-    },
-    {
-      "productId": 25,
-      "title": "Gaming Laptop",
-      "price": 1499.99,
-      "properties": [
-        {
-          "color": "gray",
-          "quantity": 1,
-          "specs": ["Intel i7", "16GB RAM", "1TB SSD", "NVIDIA RTX 3060"],
-          "style": "gaming"
-        }
-      ],
-      "type": "simple",
-      "description": "High-performance gaming laptop for the ultimate gaming experience.",
-      "category": "electronics",
-      "image": "https://images.pexels.com/photos/2047905/pexels-photo-2047905.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "rating": {
-        "rate": 4.8,
-        "count": 350
-      },
-      "id": "fffp"
-    },
-    {
-      "productId": 26,
-      "title": "Gold-Plated Necklace",
-      "price": 89.99,
-      "properties": [
-        {
-          "color": "gold",
-          "quantity": 1,
-          "material": "gold-plated",
-          "style": "elegant"
-        }
-      ],
-      "type": "simple",
-      "description": "Elegant gold-plated necklace for a sophisticated look.",
-      "category": "jewelry",
-      "image": "https://images.pexels.com/photos/3266700/pexels-photo-3266700.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "rating": {
-        "rate": 4.6,
-        "count": 180
-      },
-      "id": "fffq"
-    },
-    {
-      "productId": 27,
-      "title": "Silver Hoop Earrings",
-      "price": 49.99,
-      "properties": [
-        {
-          "color": "silver",
-          "quantity": 1,
-          "material": "sterling silver",
-          "style": "casual"
-        }
-      ],
-      "type": "simple",
-      "description": "Classic silver hoop earrings for everyday wear.",
-      "category": "jewelry",
-      "image": "https://images.pexels.com/photos/3266703/pexels-photo-3266703.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "rating": {
-        "rate": 4.5,
-        "count": 150
-      },
-      "id": "fffr"
-    },
-    {
-      "productId": 28,
-      "title": "Diamond Engagement Ring",
-      "price": 999.99,
-      "properties": [
-        {
-          "color": "silver",
-          "quantity": 1,
-          "material": "platinum",
-          "style": "luxury"
-        }
-      ],
-      "type": "simple",
-      "description": "Exquisite diamond engagement ring for a lifetime of love.",
-      "category": "jewelry",
-      "image": "https://images.pexels.com/photos/3266701/pexels-photo-3266701.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "rating": {
-        "rate": 4.9,
-        "count": 500
-      },
-      "id": "fffs"
-    },
-    {
-      "productId": 29,
-      "title": "Rose Gold Bracelet",
-      "price": 69.99,
-      "properties": [
-        {
-          "color": "rose gold",
-          "quantity": 1,
-          "material": "rose gold-plated",
-          "style": "chic"
-        }
-      ],
-      "type": "simple",
-      "description": "Chic rose gold bracelet to complement any outfit.",
-      "category": "jewelry",
-      "image": "https://images.pexels.com/photos/3266702/pexels-photo-3266702.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "rating": {
-        "rate": 4.7,
-        "count": 220
-      },
-      "id": "ffft"
-    },
-    {
-      "productId": 30,
-      "title": "Pearl Stud Earrings",
-      "price": 59.99,
-      "properties": [
-        {
-          "color": "white",
-          "quantity": 1,
-          "material": "pearl",
-          "style": "classic"
-        }
-      ],
-      "type": "simple",
-      "description": "Timeless pearl stud earrings for a refined look.",
-      "category": "jewelry",
-      "image": "https://images.pexels.com/photos/30516182/pexels-photo-30516182/free-photo-of-elegante-retrato-de-novia-con-collar-de-perlas-y-lirio.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "rating": {
-        "rate": 4.6,
-        "count": 190
-      },
-      "id": "fffu"
-    }
-  ],
+
   "categories": [
     {
       "id": "1",
@@ -1839,8 +913,6 @@
       "id": "a5d4"
     }
   ],
-  "sales": [],
-  "carts": [],
   "stock": [
     {
       "id": "fff9",
@@ -2253,5 +1325,688 @@
       "stock": [],
       "totalStock": 35
     }
-  ]
+  ],
+  "products": [
+    {
+      "productId": 1,
+      "title": "Men's Casual Premium Slim Fit T-Shirts",
+      "price": 22.3,
+      "properties": [
+        {
+          "color": "black",
+          "size": [
+            { "size": "xs", "quantity": 1 },
+            { "size": "s", "quantity": 1 },
+            { "size": "m", "quantity": 1 },
+            { "size": "l", "quantity": 1 },
+            { "size": "xl", "quantity": 1 },
+            { "size": "xxl", "quantity": 1 }
+          ],
+          "quantity": 7,
+          "season": "summer",
+          "fabric": "cotton",
+          "fit": "slim",
+          "style": "casual"
+        }
+      ],
+      "type": "composite",
+      "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, lightweight & soft fabric for breathable and comfortable wearing.",
+      "category": "men's clothing",
+      "image": "https://cdn.pixabay.com/photo/2023/12/20/03/29/men-8458815_1280.jpg",
+      "rating": { "rate": 4.1, "count": 259 },
+      "id": "fff9"
+    },
+    {
+      "productId": 2,
+      "title": "Women's Casual T-Shirts",
+      "price": 19.99,
+      "properties": [
+        {
+          "color": "red",
+          "size": [
+            { "size": "xs", "quantity": 1 },
+            { "size": "s", "quantity": 1 },
+            { "size": "m", "quantity": 1 },
+            { "size": "l", "quantity": 1 },
+            { "size": "xl", "quantity": 1 },
+            { "size": "xxl", "quantity": 1 },
+            { "size": "xxxl", "quantity": 1 }
+          ],
+          "quantity": 7,
+          "season": "spring",
+          "fabric": "linen",
+          "fit": "loose",
+          "style": "casual"
+        }
+      ],
+      "type": "composite",
+      "description": "Comfortable and lightweight T-shirts perfect for spring outings.",
+      "category": "women's clothing",
+      "image": "https://images.pexels.com/photos/9637847/pexels-photo-9637847.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "rating": { "rate": 4.5, "count": 305 },
+      "id": "fff2"
+    },
+    {
+      "productId": 3,
+      "title": "Stylish Sunglasses",
+      "price": 9.99,
+      "properties": [
+        {
+          "color": "brown",
+          "quantity": 1,
+          "season": "summer",
+          "material": "plastic",
+          "style": "fashion",
+          "totalStock": 50
+        }
+      ],
+      "type": "simple",
+      "description": "Trendy sunglasses that combine style and UV protection.",
+      "category": "jewelry",
+      "image": "https://images.pexels.com/photos/30166689/pexels-photo-30166689/free-photo-of-chaqueta-verde-elegante-con-gafas-de-sol.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "rating": { "rate": 4, "count": 120 },
+      "id": "fff3"
+    },
+    {
+      "productId": 4,
+      "title": "Leather Laptop Bag",
+      "price": 89.99,
+      "properties": [
+        {
+          "color": "tan",
+          "quantity": 1,
+          "material": "leather",
+          "style": "professional"
+        }
+      ],
+      "type": "simple",
+      "description": "Durable leather laptop bag with ample storage for professionals.",
+      "category": "electronics",
+      "image": "https://images.pexels.com/photos/936081/pexels-photo-936081.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "rating": { "rate": 4.7, "count": 70 },
+      "id": "fff4"
+    },
+    {
+      "productId": 5,
+      "title": "Wireless Earbuds",
+      "price": 59.99,
+      "properties": [
+        {
+          "color": "black",
+          "quantity": 1,
+          "batteryLife": "8 hours",
+          "style": "tech"
+        }
+      ],
+      "type": "simple",
+      "description": "High-quality wireless earbuds with excellent sound clarity.",
+      "category": "electronics",
+      "image": "https://images.pexels.com/photos/3780681/pexels-photo-3780681.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "rating": { "rate": 4.4, "count": 150 },
+      "id": "fff5"
+    },
+    {
+      "productId": 6,
+      "title": "Formal Men's Watch",
+      "price": 199.99,
+      "properties": [
+        {
+          "color": "silver",
+          "quantity": 1,
+          "material": "stainless steel",
+          "style": "formal"
+        }
+      ],
+      "type": "simple",
+      "description": "Elegant formal wristwatch for men with a minimalist design.",
+      "category": "jewelry",
+      "image": "https://images.pexels.com/photos/30372903/pexels-photo-30372903.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "rating": { "rate": 4.6, "count": 220 },
+      "id": "fff6"
+    },
+    {
+      "productId": 7,
+      "title": "Women's Designer Handbag",
+      "price": 120,
+      "properties": [
+        {
+          "color": "red",
+          "quantity": 1,
+          "material": "synthetic leather",
+          "style": "luxury"
+        }
+      ],
+      "type": "simple",
+      "description": "Luxurious designer handbag perfect for all occasions.",
+      "category": "women's clothing",
+      "image": "https://images.pexels.com/photos/1204460/pexels-photo-1204460.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "rating": { "rate": 4.5, "count": 175 },
+      "id": "fff7"
+    },
+    {
+      "productId": 8,
+      "title": "Men's Waterproof Hiking Boots",
+      "price": 75,
+      "properties": [
+        {
+          "color": "brown",
+          "season": "all-season",
+          "material": "leather",
+          "style": "outdoor",
+          "size": [
+            { "size": "38", "quantity": 1 },
+            { "size": "39", "quantity": 1 },
+            { "size": "40", "quantity": 1 },
+            { "size": "41", "quantity": 1 },
+            { "size": "42", "quantity": 1 },
+            { "size": "43", "quantity": 1 },
+            { "size": "44", "quantity": 1 }
+          ],
+          "quantity": 7
+        }
+      ],
+      "type": "composite",
+      "description": "Durable and waterproof hiking boots for all terrains.",
+      "category": "men's clothing",
+      "image": "https://images.pexels.com/photos/6003327/pexels-photo-6003327.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "rating": { "rate": 4.8, "count": 200 },
+      "id": "fff8"
+    },
+    {
+      "productId": 9,
+      "title": "Men's Graphic T-Shirt",
+      "price": 12.99,
+      "properties": [
+        {
+          "color": "green",
+          "season": "summer",
+          "fabric": "cotton",
+          "style": "casual",
+          "size": [
+            { "size": "xs", "quantity": 1 },
+            { "size": "s", "quantity": 1 },
+            { "size": "m", "quantity": 1 },
+            { "size": "l", "quantity": 1 },
+            { "size": "xl", "quantity": 1 },
+            { "size": "xxl", "quantity": 1 }
+          ],
+          "quantity": 6
+        }
+      ],
+      "type": "composite",
+      "description": "Fun and comfortable graphic T-shirt for Men.",
+      "category": "men's clothing",
+      "image": "https://images.pexels.com/photos/4101142/pexels-photo-4101142.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "rating": { "rate": 4.3, "count": 110 },
+      "id": "trs9"
+    },
+    {
+      "productId": 10,
+      "title": "Women's High-Waisted Jeans",
+      "price": 45.5,
+      "properties": [
+        {
+          "color": "dark blue",
+          "fabric": "denim",
+          "style": "casual",
+          "size": [
+            { "size": "xs", "quantity": 1 },
+            { "size": "s", "quantity": 1 },
+            { "size": "m", "quantity": 1 },
+            { "size": "l", "quantity": 1 },
+            { "size": "xl", "quantity": 1 },
+            { "size": "xxl", "quantity": 1 },
+            { "size": "xxxl", "quantity": 1 }
+          ],
+          "quantity": 7
+        }
+      ],
+      "type": "composite",
+      "description": "Stylish high-waisted jeans perfect for any occasion.",
+      "image": "https://images.pexels.com/photos/5214139/pexels-photo-5214139.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "rating": { "rate": 4.6, "count": 350 },
+      "id": "fffa"
+    },
+    {
+      "productId": 11,
+      "title": "Men's Classic Denim Jacket",
+      "price": 65.99,
+      "properties": [
+        {
+          "color": "blue",
+          "size": [
+            { "size": "s", "quantity": 1 },
+            { "size": "m", "quantity": 1 },
+            { "size": "l", "quantity": 1 },
+            { "size": "xl", "quantity": 1 }
+          ],
+          "quantity": 4,
+          "season": "fall",
+          "fabric": "denim",
+          "fit": "regular",
+          "style": "casual"
+        }
+      ],
+      "type": "composite",
+      "description": "Timeless denim jacket for a rugged yet stylish look.",
+      "category": "men's clothing",
+      "image": "https://images.pexels.com/photos/2229712/pexels-photo-2229712.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "rating": { "rate": 4.7, "count": 180 },
+      "id": "fffb"
+    },
+    {
+      "productId": 12,
+      "title": "Women's Floral Summer Dress",
+      "price": 34.99,
+      "properties": [
+        {
+          "color": "multicolor",
+          "size": [
+            { "size": "xs", "quantity": 1 },
+            { "size": "s", "quantity": 1 },
+            { "size": "m", "quantity": 1 },
+            { "size": "l", "quantity": 1 }
+          ],
+          "quantity": 4,
+          "season": "summer",
+          "fabric": "polyester",
+          "fit": "loose",
+          "style": "casual"
+        }
+      ],
+      "type": "composite",
+      "description": "Light and breezy floral dress perfect for summer days.",
+      "category": "women's clothing",
+      "image": "https://images.pexels.com/photos/3731256/pexels-photo-3731256.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "rating": { "rate": 4.6, "count": 210 },
+      "id": "fffc"
+    },
+    {
+      "productId": 13,
+      "title": "Unisex Backpack",
+      "price": 49.99,
+      "properties": [
+        {
+          "color": "black",
+          "quantity": 1,
+          "material": "nylon",
+          "style": "casual",
+          "capacity": "20L"
+        }
+      ],
+      "type": "simple",
+      "description": "Durable and spacious backpack for everyday use.",
+      "category": "women's clothing",
+      "image": "https://images.pexels.com/photos/2905238/pexels-photo-2905238.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "rating": { "rate": 4.5, "count": 150 },
+      "id": "fffd"
+    },
+    {
+      "productId": 14,
+      "title": "Men's Running Shoes",
+      "price": 79.99,
+      "properties": [
+        {
+          "color": "gray",
+          "size": [
+            { "size": "40", "quantity": 1 },
+            { "size": "41", "quantity": 1 },
+            { "size": "42", "quantity": 1 },
+            { "size": "43", "quantity": 1 }
+          ],
+          "quantity": 4,
+          "season": "all-season",
+          "material": "mesh",
+          "style": "sport"
+        }
+      ],
+      "type": "composite",
+      "description": "Comfortable and lightweight running shoes for men.",
+      "category": "men's clothing",
+      "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "rating": { "rate": 4.8, "count": 250 },
+      "id": "fffe"
+    },
+    {
+      "productId": 15,
+      "title": "Women's Leather Handbag",
+      "price": 99.99,
+      "properties": [
+        {
+          "color": "brown",
+          "quantity": 1,
+          "material": "genuine leather",
+          "style": "luxury"
+        }
+      ],
+      "type": "simple",
+      "description": "Elegant leather handbag for a sophisticated look.",
+      "category": "women's clothing",
+      "image": "https://images.pexels.com/photos/934070/pexels-photo-934070.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "rating": { "rate": 4.7, "count": 190 },
+      "id": "ffff"
+    },
+    {
+      "productId": 16,
+      "title": "Men's Wool Coat",
+      "price": 129.99,
+      "properties": [
+        {
+          "color": "navy",
+          "size": [
+            { "size": "m", "quantity": 1 },
+            { "size": "l", "quantity": 1 },
+            { "size": "xl", "quantity": 1 }
+          ],
+          "quantity": 3,
+          "season": "winter",
+          "fabric": "wool",
+          "fit": "regular",
+          "style": "formal"
+        }
+      ],
+      "type": "composite",
+      "description": "Warm and stylish wool coat for the winter season.",
+      "category": "men's clothing",
+      "image": "https://images.pexels.com/photos/1643025/pexels-photo-1643025.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "rating": { "rate": 4.9, "count": 300 },
+      "id": "fffg"
+    },
+    {
+      "productId": 17,
+      "title": "Women's Sneakers",
+      "price": 59.99,
+      "properties": [
+        {
+          "color": "white",
+          "size": [
+            { "size": "36", "quantity": 1 },
+            { "size": "37", "quantity": 1 },
+            { "size": "38", "quantity": 1 }
+          ],
+          "quantity": 3,
+          "season": "all-season",
+          "material": "synthetic",
+          "style": "sport"
+        }
+      ],
+      "type": "composite",
+      "description": "Comfortable and stylish sneakers for women.",
+      "category": "women's clothing",
+      "image": "https://images.pexels.com/photos/2529146/pexels-photo-2529146.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "rating": { "rate": 4.6, "count": 200 },
+      "id": "fffh"
+    },
+    {
+      "productId": 18,
+      "title": "Men's Polo Shirt",
+      "price": 29.99,
+      "properties": [
+        {
+          "color": "navy",
+          "size": [
+            { "size": "s", "quantity": 1 },
+            { "size": "m", "quantity": 1 },
+            { "size": "l", "quantity": 1 }
+          ],
+          "quantity": 3,
+          "season": "summer",
+          "fabric": "cotton",
+          "fit": "regular",
+          "style": "casual"
+        }
+      ],
+      "type": "composite",
+      "description": "Classic polo shirt for a smart casual look.",
+      "category": "men's clothing",
+      "image": "https://images.pexels.com/photos/769733/pexels-photo-769733.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "rating": { "rate": 4.5, "count": 170 },
+      "id": "fffi"
+    },
+    {
+      "productId": 19,
+      "title": "Women's Winter Scarf",
+      "price": 24.99,
+      "properties": [
+        {
+          "color": "gray",
+          "quantity": 1,
+          "material": "wool",
+          "style": "warm",
+          "totalStock": 5
+        }
+      ],
+      "type": "simple",
+      "description": "Soft and warm wool scarf for the winter season.",
+      "category": "women's clothing",
+      "image": "https://images.pexels.com/photos/2120584/pexels-photo-2120584.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "rating": { "rate": 4.4, "count": 140 },
+      "id": "fffj"
+    },
+    {
+      "productId": 20,
+      "title": "Men's Leather Belt",
+      "price": 19.99,
+      "properties": [
+        {
+          "color": "brown",
+          "quantity": 1,
+          "material": "genuine leather",
+          "style": "formal"
+        }
+      ],
+      "type": "simple",
+      "description": "Classic leather belt for a polished look.",
+      "category": "men's clothing",
+      "image": "https://images.pexels.com/photos/934070/pexels-photo-934070.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "rating": { "rate": 4.3, "count": 130 },
+      "id": "fffk"
+    },
+    {
+      "productId": 21,
+      "title": "Wireless Noise-Cancelling Headphones",
+      "price": 149.99,
+      "properties": [
+        {
+          "color": "black",
+          "quantity": 1,
+          "batteryLife": "20 hours",
+          "connectivity": "Bluetooth 5.0",
+          "style": "tech"
+        }
+      ],
+      "type": "simple",
+      "description": "Premium wireless headphones with active noise cancellation for an immersive listening experience.",
+      "category": "electronics",
+      "image": "https://images.pexels.com/photos/1649771/pexels-photo-1649771.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "rating": { "rate": 4.8, "count": 300 },
+      "id": "fffl"
+    },
+    {
+      "productId": 22,
+      "title": "Smartwatch with Heart Rate Monitor",
+      "price": 199.99,
+      "properties": [
+        {
+          "color": "silver",
+          "quantity": 1,
+          "batteryLife": "7 days",
+          "features": ["heart rate monitor", "GPS", "water-resistant"],
+          "style": "sport"
+        }
+      ],
+      "type": "simple",
+      "description": "Stay connected and track your fitness with this advanced smartwatch.",
+      "category": "electronics",
+      "image": "https://images.pexels.com/photos/437037/pexels-photo-437037.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "rating": { "rate": 4.7, "count": 250 },
+      "id": "fffm"
+    },
+    {
+      "productId": 23,
+      "title": "Portable Bluetooth Speaker",
+      "price": 79.99,
+      "properties": [
+        {
+          "color": "blue",
+          "quantity": 1,
+          "batteryLife": "12 hours",
+          "connectivity": "Bluetooth 5.0",
+          "style": "portable"
+        }
+      ],
+      "type": "simple",
+      "description": "Compact and powerful Bluetooth speaker for music on the go.",
+      "category": "electronics",
+      "image": "https://images.pexels.com/photos/1646704/pexels-photo-1646704.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "rating": { "rate": 4.6, "count": 200 },
+      "id": "fffn"
+    },
+    {
+      "productId": 24,
+      "title": "4K Ultra HD Smart TV",
+      "price": 799.99,
+      "properties": [
+        {
+          "color": "black",
+          "quantity": 1,
+          "screenSize": "55 inches",
+          "features": ["4K resolution", "HDR", "Smart TV"],
+          "style": "home entertainment"
+        }
+      ],
+      "type": "simple",
+      "description": "Experience stunning visuals with this 4K Ultra HD Smart TV.",
+      "category": "electronics",
+      "image": "https://images.pexels.com/photos/5721908/pexels-photo-5721908.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "rating": { "rate": 4.9, "count": 400 },
+      "id": "fffo"
+    },
+    {
+      "productId": 25,
+      "title": "Gaming Laptop",
+      "price": 1499.99,
+      "properties": [
+        {
+          "color": "gray",
+          "quantity": 1,
+          "specs": ["Intel i7", "16GB RAM", "1TB SSD", "NVIDIA RTX 3060"],
+          "style": "gaming"
+        }
+      ],
+      "type": "simple",
+      "description": "High-performance gaming laptop for the ultimate gaming experience.",
+      "category": "electronics",
+      "image": "https://images.pexels.com/photos/2047905/pexels-photo-2047905.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "rating": { "rate": 4.8, "count": 350 },
+      "id": "fffp"
+    },
+    {
+      "productId": 26,
+      "title": "Gold-Plated Necklace",
+      "price": 89.99,
+      "properties": [
+        {
+          "color": "gold",
+          "quantity": 1,
+          "material": "gold-plated",
+          "style": "elegant"
+        }
+      ],
+      "type": "simple",
+      "description": "Elegant gold-plated necklace for a sophisticated look.",
+      "category": "jewelry",
+      "image": "https://images.pexels.com/photos/3266700/pexels-photo-3266700.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "rating": { "rate": 4.6, "count": 180 },
+      "id": "fffq"
+    },
+    {
+      "productId": 27,
+      "title": "Silver Hoop Earrings",
+      "price": 49.99,
+      "properties": [
+        {
+          "color": "silver",
+          "quantity": 1,
+          "material": "sterling silver",
+          "style": "casual"
+        }
+      ],
+      "type": "simple",
+      "description": "Classic silver hoop earrings for everyday wear.",
+      "category": "jewelry",
+      "image": "https://images.pexels.com/photos/3266703/pexels-photo-3266703.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "rating": { "rate": 4.5, "count": 150 },
+      "id": "fffr"
+    },
+
+    {
+      "productId": 28,
+      "title": "Diamond Engagement Ring",
+      "price": 999.99,
+      "properties": [
+        {
+          "color": "silver",
+          "quantity": 1,
+          "material": "platinum",
+          "style": "luxury"
+        }
+      ],
+      "type": "simple",
+      "description": "Exquisite diamond engagement ring for a lifetime of love.",
+      "category": "jewelry",
+      "image": "https://images.pexels.com/photos/3266701/pexels-photo-3266701.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "rating": {
+        "rate": 4.9,
+        "count": 500
+      },
+      "id": "fffs"
+    },
+    {
+      "productId": 29,
+      "title": "Rose Gold Bracelet",
+      "price": 69.99,
+      "properties": [
+        {
+          "color": "rose gold",
+          "quantity": 1,
+          "material": "rose gold-plated",
+          "style": "chic"
+        }
+      ],
+      "type": "simple",
+      "description": "Chic rose gold bracelet to complement any outfit.",
+      "category": "jewelry",
+      "image": "https://images.pexels.com/photos/3266702/pexels-photo-3266702.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "rating": {
+        "rate": 4.7,
+        "count": 220
+      },
+      "id": "ffft"
+    },
+    {
+      "productId": 30,
+      "title": "Pearl Stud Earrings",
+      "price": 59.99,
+      "properties": [
+        {
+          "color": "white",
+          "quantity": 1,
+          "material": "pearl",
+          "style": "classic"
+        }
+      ],
+      "type": "simple",
+      "description": "Timeless pearl stud earrings for a refined look.",
+      "category": "jewelry",
+      "image": "https://images.pexels.com/photos/30516182/pexels-photo-30516182/free-photo-of-elegante-retrato-de-novia-con-collar-de-perlas-y-lirio.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "rating": {
+        "rate": 4.6,
+        "count": 190
+      },
+      "id": "fffu"
+    }
+  ],
+  "sales": [],
+  "carts": []
 }
