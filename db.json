@@ -316,37 +316,6 @@
             }
           ],
           "quantity": 7,
-          "stock": [
-            {
-              "size": "xs",
-              "quantity": 10
-            },
-            {
-              "size": "s",
-              "quantity": 10
-            },
-            {
-              "size": "m",
-              "quantity": 10
-            },
-            {
-              "size": "l",
-              "quantity": 10
-            },
-            {
-              "size": "xl",
-              "quantity": 10
-            },
-            {
-              "size": "xxl",
-              "quantity": 10
-            },
-            {
-              "size": "xxxl",
-              "quantity": 10
-            }
-          ],
-          "totalStock": 70,
           "season": "summer",
           "fabric": "cotton",
           "fit": "slim",
@@ -401,37 +370,6 @@
             }
           ],
           "quantity": 7,
-          "stock": [
-            {
-              "size": "xs",
-              "quantity": 10
-            },
-            {
-              "size": "s",
-              "quantity": 10
-            },
-            {
-              "size": "m",
-              "quantity": 10
-            },
-            {
-              "size": "l",
-              "quantity": 10
-            },
-            {
-              "size": "xl",
-              "quantity": 10
-            },
-            {
-              "size": "xxl",
-              "quantity": 10
-            },
-            {
-              "size": "xxxl",
-              "quantity": 10
-            }
-          ],
-          "totalStock": 70,
           "season": "spring",
           "fabric": "linen",
           "fit": "loose",
@@ -458,8 +396,7 @@
           "quantity": 1,
           "season": "summer",
           "material": "plastic",
-          "style": "fashion",
-          "totalStock": 50
+          "style": "fashion"
         }
       ],
       "type": "simple",
@@ -481,8 +418,7 @@
           "color": "tan",
           "quantity": 1,
           "material": "leather",
-          "style": "professional",
-          "totalStock": 20
+          "style": "professional"
         }
       ],
       "type": "simple",
@@ -504,8 +440,7 @@
           "color": "black",
           "quantity": 1,
           "batteryLife": "8 hours",
-          "style": "tech",
-          "totalStock": 100
+          "style": "tech"
         }
       ],
       "type": "simple",
@@ -527,8 +462,7 @@
           "color": "silver",
           "quantity": 1,
           "material": "stainless steel",
-          "style": "formal",
-          "totalStock": 50
+          "style": "formal"
         }
       ],
       "type": "simple",
@@ -549,7 +483,6 @@
         {
           "color": "red",
           "quantity": 1,
-          "totalStock": 30,
           "material": "synthetic leather",
           "style": "luxury"
         }
@@ -604,38 +537,7 @@
               "quantity": 1
             }
           ],
-          "quantity": 7,
-          "stock": [
-            {
-              "size": "38",
-              "quantity": 0
-            },
-            {
-              "size": "39",
-              "quantity": 0
-            },
-            {
-              "size": "40",
-              "quantity": 10
-            },
-            {
-              "size": "41",
-              "quantity": 10
-            },
-            {
-              "size": "42",
-              "quantity": 10
-            },
-            {
-              "size": "43",
-              "quantity": 10
-            },
-            {
-              "size": "44",
-              "quantity": 10
-            }
-          ],
-          "totalStock": 50
+          "quantity": 7
         }
       ],
       "type": "composite",
@@ -684,34 +586,7 @@
               "quantity": 1
             }
           ],
-          "quantity": 6,
-          "stock": [
-            {
-              "size": "xs",
-              "quantity": 0
-            },
-            {
-              "size": "s",
-              "quantity": 10
-            },
-            {
-              "size": "m",
-              "quantity": 10
-            },
-            {
-              "size": "l",
-              "quantity": 0
-            },
-            {
-              "size": "xl",
-              "quantity": 10
-            },
-            {
-              "size": "xxl",
-              "quantity": 10
-            }
-          ],
-          "totalStock": 50
+          "quantity": 6
         }
       ],
       "type": "composite",
@@ -763,38 +638,7 @@
               "quantity": 1
             }
           ],
-          "quantity": 7,
-          "stock": [
-            {
-              "size": "xs",
-              "quantity": 10
-            },
-            {
-              "size": "s",
-              "quantity": 10
-            },
-            {
-              "size": "m",
-              "quantity": 10
-            },
-            {
-              "size": "l",
-              "quantity": 10
-            },
-            {
-              "size": "xl",
-              "quantity": 10
-            },
-            {
-              "size": "xxl",
-              "quantity": 10
-            },
-            {
-              "size": "xxxl",
-              "quantity": 10
-            }
-          ],
-          "totalStock": 70
+          "quantity": 7
         }
       ],
       "type": "composite",
@@ -833,25 +677,6 @@
             }
           ],
           "quantity": 4,
-          "stock": [
-            {
-              "size": "s",
-              "quantity": 10
-            },
-            {
-              "size": "m",
-              "quantity": 10
-            },
-            {
-              "size": "l",
-              "quantity": 10
-            },
-            {
-              "size": "xl",
-              "quantity": 10
-            }
-          ],
-          "totalStock": 40,
           "season": "fall",
           "fabric": "denim",
           "fit": "regular",
@@ -894,25 +719,6 @@
             }
           ],
           "quantity": 4,
-          "stock": [
-            {
-              "size": "xs",
-              "quantity": 10
-            },
-            {
-              "size": "s",
-              "quantity": 10
-            },
-            {
-              "size": "m",
-              "quantity": 10
-            },
-            {
-              "size": "l",
-              "quantity": 10
-            }
-          ],
-          "totalStock": 40,
           "season": "summer",
           "fabric": "polyester",
           "fit": "loose",
@@ -939,8 +745,7 @@
           "quantity": 1,
           "material": "nylon",
           "style": "casual",
-          "capacity": "20L",
-          "totalStock": 60
+          "capacity": "20L"
         }
       ],
       "type": "simple",
@@ -979,25 +784,6 @@
             }
           ],
           "quantity": 4,
-          "stock": [
-            {
-              "size": "40",
-              "quantity": 10
-            },
-            {
-              "size": "41",
-              "quantity": 10
-            },
-            {
-              "size": "42",
-              "quantity": 10
-            },
-            {
-              "size": "43",
-              "quantity": 10
-            }
-          ],
-          "totalStock": 40,
           "season": "all-season",
           "material": "mesh",
           "style": "sport"
@@ -1022,8 +808,7 @@
           "color": "brown",
           "quantity": 1,
           "material": "genuine leather",
-          "style": "luxury",
-          "totalStock": 25
+          "style": "luxury"
         }
       ],
       "type": "simple",
@@ -1058,21 +843,6 @@
             }
           ],
           "quantity": 3,
-          "stock": [
-            {
-              "size": "m",
-              "quantity": 10
-            },
-            {
-              "size": "l",
-              "quantity": 10
-            },
-            {
-              "size": "xl",
-              "quantity": 10
-            }
-          ],
-          "totalStock": 30,
           "season": "winter",
           "fabric": "wool",
           "fit": "regular",
@@ -1111,20 +881,6 @@
             }
           ],
           "quantity": 3,
-          "stock": [
-            {
-              "size": "36",
-              "quantity": 10
-            },
-            {
-              "size": "37",
-              "quantity": 10
-            },
-            {
-              "size": "38",
-              "quantity": 10
-            }
-          ],
           "totalStock": 30,
           "season": "all-season",
           "material": "synthetic",
@@ -1163,21 +919,6 @@
             }
           ],
           "quantity": 3,
-          "stock": [
-            {
-              "size": "s",
-              "quantity": 10
-            },
-            {
-              "size": "m",
-              "quantity": 10
-            },
-            {
-              "size": "l",
-              "quantity": 10
-            }
-          ],
-          "totalStock": 30,
           "season": "summer",
           "fabric": "cotton",
           "fit": "regular",
@@ -1203,8 +944,7 @@
           "color": "gray",
           "quantity": 1,
           "material": "wool",
-          "style": "warm",
-          "totalStock": 5
+          "style": "warm"
         }
       ],
       "type": "simple",
@@ -1226,8 +966,7 @@
           "color": "brown",
           "quantity": 1,
           "material": "genuine leather",
-          "style": "formal",
-          "totalStock": 40
+          "style": "formal"
         }
       ],
       "type": "simple",
@@ -1250,7 +989,6 @@
           "quantity": 1,
           "batteryLife": "20 hours",
           "connectivity": "Bluetooth 5.0",
-          "totalStock": 50,
           "style": "tech"
         }
       ],
@@ -1273,13 +1011,8 @@
           "color": "silver",
           "quantity": 1,
           "batteryLife": "7 days",
-          "features": [
-            "heart rate monitor",
-            "GPS",
-            "water-resistant"
-          ],
-          "style": "sport",
-          "totalStock": 30
+          "features": ["heart rate monitor", "GPS", "water-resistant"],
+          "style": "sport"
         }
       ],
       "type": "simple",
@@ -1302,7 +1035,6 @@
           "quantity": 1,
           "batteryLife": "12 hours",
           "connectivity": "Bluetooth 5.0",
-          "totalStock": 40,
           "style": "portable"
         }
       ],
@@ -1325,12 +1057,7 @@
           "color": "black",
           "quantity": 1,
           "screenSize": "55 inches",
-          "features": [
-            "4K resolution",
-            "HDR",
-            "Smart TV"
-          ],
-          "totalStock": 20,
+          "features": ["4K resolution", "HDR", "Smart TV"],
           "style": "home entertainment"
         }
       ],
@@ -1352,14 +1079,8 @@
         {
           "color": "gray",
           "quantity": 1,
-          "specs": [
-            "Intel i7",
-            "16GB RAM",
-            "1TB SSD",
-            "NVIDIA RTX 3060"
-          ],
-          "style": "gaming",
-          "totalStock": 15
+          "specs": ["Intel i7", "16GB RAM", "1TB SSD", "NVIDIA RTX 3060"],
+          "style": "gaming"
         }
       ],
       "type": "simple",
@@ -1381,8 +1102,7 @@
           "color": "gold",
           "quantity": 1,
           "material": "gold-plated",
-          "style": "elegant",
-          "totalStock": 25
+          "style": "elegant"
         }
       ],
       "type": "simple",
@@ -1404,7 +1124,6 @@
           "color": "silver",
           "quantity": 1,
           "material": "sterling silver",
-          "totalStock": 40,
           "style": "casual"
         }
       ],
@@ -1427,8 +1146,7 @@
           "color": "silver",
           "quantity": 1,
           "material": "platinum",
-          "style": "luxury",
-          "totalStock": 10
+          "style": "luxury"
         }
       ],
       "type": "simple",
@@ -1450,8 +1168,7 @@
           "color": "rose gold",
           "quantity": 1,
           "material": "rose gold-plated",
-          "style": "chic",
-          "totalStock": 30
+          "style": "chic"
         }
       ],
       "type": "simple",
@@ -1473,8 +1190,7 @@
           "color": "white",
           "quantity": 1,
           "material": "pearl",
-          "style": "classic",
-          "totalStock": 35
+          "style": "classic"
         }
       ],
       "type": "simple",
@@ -2124,7 +1840,420 @@
     }
   ],
   "sales": [],
-  "carts": [
-   
+  "carts": [],
+  "stock": [
+    [
+      {
+        "id": "fff9",
+        "productId": 1,
+        "stock": [
+          {
+            "size": "xs",
+            "quantity": 10
+          },
+          {
+            "size": "s",
+            "quantity": 10
+          },
+          {
+            "size": "m",
+            "quantity": 10
+          },
+          {
+            "size": "l",
+            "quantity": 10
+          },
+          {
+            "size": "xl",
+            "quantity": 10
+          },
+          {
+            "size": "xxl",
+            "quantity": 10
+          },
+          {
+            "size": "xxxl",
+            "quantity": 10
+          }
+        ],
+        "totalStock": 70
+      },
+      {
+        "id": "fff2",
+        "productId": 2,
+        "stock": [
+          {
+            "size": "xs",
+            "quantity": 10
+          },
+          {
+            "size": "s",
+            "quantity": 10
+          },
+          {
+            "size": "m",
+            "quantity": 10
+          },
+          {
+            "size": "l",
+            "quantity": 10
+          },
+          {
+            "size": "xl",
+            "quantity": 10
+          },
+          {
+            "size": "xxl",
+            "quantity": 10
+          },
+          {
+            "size": "xxxl",
+            "quantity": 10
+          }
+        ],
+        "totalStock": 70
+      },
+      {
+        "id": "fff3",
+        "productId": 3,
+        "stock": [],
+        "totalStock": 50
+      },
+      {
+        "id": "fff4",
+        "productId": 4,
+        "stock": [],
+        "totalStock": 20
+      },
+      {
+        "id": "fff5",
+        "productId": 5,
+        "stock": [],
+        "totalStock": 100
+      },
+      {
+        "id": "fff6",
+        "productId": 6,
+        "stock": [],
+        "totalStock": 50
+      },
+      {
+        "id": "fff7",
+        "productId": 7,
+        "stock": [],
+        "totalStock": 30
+      },
+      {
+        "id": "fff8",
+        "productId": 8,
+        "stock": [
+          {
+            "size": "38",
+            "quantity": 0
+          },
+          {
+            "size": "39",
+            "quantity": 0
+          },
+          {
+            "size": "40",
+            "quantity": 10
+          },
+          {
+            "size": "41",
+            "quantity": 10
+          },
+          {
+            "size": "42",
+            "quantity": 10
+          },
+          {
+            "size": "43",
+            "quantity": 10
+          },
+          {
+            "size": "44",
+            "quantity": 10
+          }
+        ],
+        "totalStock": 50
+      },
+      {
+        "id": "trs9",
+        "productId": 9,
+        "stock": [
+          {
+            "size": "xs",
+            "quantity": 0
+          },
+          {
+            "size": "s",
+            "quantity": 10
+          },
+          {
+            "size": "m",
+            "quantity": 10
+          },
+          {
+            "size": "l",
+            "quantity": 0
+          },
+          {
+            "size": "xl",
+            "quantity": 10
+          },
+          {
+            "size": "xxl",
+            "quantity": 10
+          }
+        ],
+        "totalStock": 50
+      },
+      {
+        "id": "fffa",
+        "productId": 10,
+        "stock": [
+          {
+            "size": "xs",
+            "quantity": 10
+          },
+          {
+            "size": "s",
+            "quantity": 10
+          },
+          {
+            "size": "m",
+            "quantity": 10
+          },
+          {
+            "size": "l",
+            "quantity": 10
+          },
+          {
+            "size": "xl",
+            "quantity": 10
+          },
+          {
+            "size": "xxl",
+            "quantity": 10
+          },
+          {
+            "size": "xxxl",
+            "quantity": 10
+          }
+        ],
+        "totalStock": 70
+      },
+      {
+        "id": "fffb",
+        "productId": 11,
+        "stock": [
+          {
+            "size": "s",
+            "quantity": 10
+          },
+          {
+            "size": "m",
+            "quantity": 10
+          },
+          {
+            "size": "l",
+            "quantity": 10
+          },
+          {
+            "size": "xl",
+            "quantity": 10
+          }
+        ],
+        "totalStock": 40
+      },
+      {
+        "id": "fffc",
+        "productId": 12,
+        "stock": [
+          {
+            "size": "xs",
+            "quantity": 10
+          },
+          {
+            "size": "s",
+            "quantity": 10
+          },
+          {
+            "size": "m",
+            "quantity": 10
+          },
+          {
+            "size": "l",
+            "quantity": 10
+          }
+        ],
+        "totalStock": 40
+      },
+      {
+        "id": "fffd",
+        "productId": 13,
+        "stock": [],
+        "totalStock": 60
+      },
+      {
+        "id": "fffe",
+        "productId": 14,
+        "stock": [
+          {
+            "size": "40",
+            "quantity": 10
+          },
+          {
+            "size": "41",
+            "quantity": 10
+          },
+          {
+            "size": "42",
+            "quantity": 10
+          },
+          {
+            "size": "43",
+            "quantity": 10
+          }
+        ],
+        "totalStock": 40
+      },
+      {
+        "id": "ffff",
+        "productId": 15,
+        "stock": [],
+        "totalStock": 25
+      },
+      {
+        "id": "fffg",
+        "productId": 16,
+        "stock": [
+          {
+            "size": "m",
+            "quantity": 10
+          },
+          {
+            "size": "l",
+            "quantity": 10
+          },
+          {
+            "size": "xl",
+            "quantity": 10
+          }
+        ],
+        "totalStock": 30
+      },
+      {
+        "id": "fffh",
+        "productId": 17,
+        "stock": [
+          {
+            "size": "36",
+            "quantity": 10
+          },
+          {
+            "size": "37",
+            "quantity": 10
+          },
+          {
+            "size": "38",
+            "quantity": 10
+          }
+        ],
+        "totalStock": 30
+      },
+      {
+        "id": "fffi",
+        "productId": 18,
+        "stock": [
+          {
+            "size": "s",
+            "quantity": 10
+          },
+          {
+            "size": "m",
+            "quantity": 10
+          },
+          {
+            "size": "l",
+            "quantity": 10
+          }
+        ],
+        "totalStock": 30
+      },
+      {
+        "id": "fffj",
+        "productId": 19,
+        "stock": [],
+        "totalStock": 5
+      },
+      {
+        "id": "fffk",
+        "productId": 20,
+        "stock": [],
+        "totalStock": 40
+      },
+      {
+        "id": "fffl",
+        "productId": 21,
+        "stock": [],
+        "totalStock": 50
+      },
+      {
+        "id": "fffm",
+        "productId": 22,
+        "stock": [],
+        "totalStock": 30
+      },
+      {
+        "id": "fffn",
+        "productId": 23,
+        "stock": [],
+        "totalStock": 40
+      },
+      {
+        "id": "fffo",
+        "productId": 24,
+        "stock": [],
+        "totalStock": 20
+      },
+      {
+        "id": "fffp",
+        "productId": 25,
+        "stock": [],
+        "totalStock": 15
+      },
+      {
+        "id": "fffq",
+        "productId": 26,
+        "stock": [],
+        "totalStock": 25
+      },
+      {
+        "id": "fffr",
+        "productId": 27,
+        "stock": [],
+        "totalStock": 40
+      },
+      {
+        "id": "fffs",
+        "productId": 28,
+        "stock": [],
+        "totalStock": 10
+      },
+      {
+        "id": "ffft",
+        "productId": 29,
+        "stock": [],
+        "totalStock": 30
+      },
+      {
+        "id": "fffu",
+        "productId": 30,
+        "stock": [],
+        "totalStock": 35
+      }
+    ]
   ]
 }
