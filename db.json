@@ -277,7 +277,6 @@
       "id": "eea9"
     }
   ],
-
   "categories": [
     {
       "id": "1",
@@ -1335,14 +1334,32 @@
         {
           "color": "black",
           "size": [
-            { "size": "xs", "quantity": 1 },
-            { "size": "s", "quantity": 1 },
-            { "size": "m", "quantity": 1 },
-            { "size": "l", "quantity": 1 },
-            { "size": "xl", "quantity": 1 },
-            { "size": "xxl", "quantity": 1 }
+            {
+              "size": "xs",
+              "quantity": 1
+            },
+            {
+              "size": "s",
+              "quantity": 1
+            },
+            {
+              "size": "m",
+              "quantity": 1
+            },
+            {
+              "size": "l",
+              "quantity": 1
+            },
+            {
+              "size": "xl",
+              "quantity": 1
+            },
+            {
+              "size": "xxl",
+              "quantity": 1
+            }
           ],
-          "quantity": 7,
+          "quantity": 6,
           "season": "summer",
           "fabric": "cotton",
           "fit": "slim",
@@ -1352,8 +1369,11 @@
       "type": "composite",
       "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, lightweight & soft fabric for breathable and comfortable wearing.",
       "category": "men's clothing",
-      "image": "https://cdn.pixabay.com/photo/2023/12/20/03/29/men-8458815_1280.jpg",
-      "rating": { "rate": 4.1, "count": 259 },
+      "image": "https://images.pexels.com/photos/1040880/pexels-photo-1040880.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "rating": {
+        "rate": 4.1,
+        "count": 259
+      },
       "id": "fff9"
     },
     {
@@ -1364,13 +1384,34 @@
         {
           "color": "red",
           "size": [
-            { "size": "xs", "quantity": 1 },
-            { "size": "s", "quantity": 1 },
-            { "size": "m", "quantity": 1 },
-            { "size": "l", "quantity": 1 },
-            { "size": "xl", "quantity": 1 },
-            { "size": "xxl", "quantity": 1 },
-            { "size": "xxxl", "quantity": 1 }
+            {
+              "size": "xs",
+              "quantity": 1
+            },
+            {
+              "size": "s",
+              "quantity": 1
+            },
+            {
+              "size": "m",
+              "quantity": 1
+            },
+            {
+              "size": "l",
+              "quantity": 1
+            },
+            {
+              "size": "xl",
+              "quantity": 1
+            },
+            {
+              "size": "xxl",
+              "quantity": 1
+            },
+            {
+              "size": "xxxl",
+              "quantity": 1
+            }
           ],
           "quantity": 7,
           "season": "spring",
@@ -1383,7 +1424,10 @@
       "description": "Comfortable and lightweight T-shirts perfect for spring outings.",
       "category": "women's clothing",
       "image": "https://images.pexels.com/photos/9637847/pexels-photo-9637847.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "rating": { "rate": 4.5, "count": 305 },
+      "rating": {
+        "rate": 4.5,
+        "count": 305
+      },
       "id": "fff2"
     },
     {
@@ -1404,7 +1448,10 @@
       "description": "Trendy sunglasses that combine style and UV protection.",
       "category": "jewelry",
       "image": "https://images.pexels.com/photos/30166689/pexels-photo-30166689/free-photo-of-chaqueta-verde-elegante-con-gafas-de-sol.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "rating": { "rate": 4, "count": 120 },
+      "rating": {
+        "rate": 4,
+        "count": 120
+      },
       "id": "fff3"
     },
     {
@@ -1423,7 +1470,10 @@
       "description": "Durable leather laptop bag with ample storage for professionals.",
       "category": "electronics",
       "image": "https://images.pexels.com/photos/936081/pexels-photo-936081.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "rating": { "rate": 4.7, "count": 70 },
+      "rating": {
+        "rate": 4.7,
+        "count": 70
+      },
       "id": "fff4"
     },
     {
@@ -1442,7 +1492,10 @@
       "description": "High-quality wireless earbuds with excellent sound clarity.",
       "category": "electronics",
       "image": "https://images.pexels.com/photos/3780681/pexels-photo-3780681.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "rating": { "rate": 4.4, "count": 150 },
+      "rating": {
+        "rate": 4.4,
+        "count": 150
+      },
       "id": "fff5"
     },
     {
@@ -1461,7 +1514,10 @@
       "description": "Elegant formal wristwatch for men with a minimalist design.",
       "category": "jewelry",
       "image": "https://images.pexels.com/photos/30372903/pexels-photo-30372903.jpeg?auto=compress&cs=tinysrgb&w=600",
-      "rating": { "rate": 4.6, "count": 220 },
+      "rating": {
+        "rate": 4.6,
+        "count": 220
+      },
       "id": "fff6"
     },
     {
@@ -1480,7 +1536,10 @@
       "description": "Luxurious designer handbag perfect for all occasions.",
       "category": "women's clothing",
       "image": "https://images.pexels.com/photos/1204460/pexels-photo-1204460.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "rating": { "rate": 4.5, "count": 175 },
+      "rating": {
+        "rate": 4.5,
+        "count": 175
+      },
       "id": "fff7"
     },
     {
@@ -1494,13 +1553,34 @@
           "material": "leather",
           "style": "outdoor",
           "size": [
-            { "size": "38", "quantity": 1 },
-            { "size": "39", "quantity": 1 },
-            { "size": "40", "quantity": 1 },
-            { "size": "41", "quantity": 1 },
-            { "size": "42", "quantity": 1 },
-            { "size": "43", "quantity": 1 },
-            { "size": "44", "quantity": 1 }
+            {
+              "size": "38",
+              "quantity": 1
+            },
+            {
+              "size": "39",
+              "quantity": 1
+            },
+            {
+              "size": "40",
+              "quantity": 1
+            },
+            {
+              "size": "41",
+              "quantity": 1
+            },
+            {
+              "size": "42",
+              "quantity": 1
+            },
+            {
+              "size": "43",
+              "quantity": 1
+            },
+            {
+              "size": "44",
+              "quantity": 1
+            }
           ],
           "quantity": 7
         }
@@ -1509,7 +1589,10 @@
       "description": "Durable and waterproof hiking boots for all terrains.",
       "category": "men's clothing",
       "image": "https://images.pexels.com/photos/6003327/pexels-photo-6003327.jpeg?auto=compress&cs=tinysrgb&w=600",
-      "rating": { "rate": 4.8, "count": 200 },
+      "rating": {
+        "rate": 4.8,
+        "count": 200
+      },
       "id": "fff8"
     },
     {
@@ -1523,12 +1606,30 @@
           "fabric": "cotton",
           "style": "casual",
           "size": [
-            { "size": "xs", "quantity": 1 },
-            { "size": "s", "quantity": 1 },
-            { "size": "m", "quantity": 1 },
-            { "size": "l", "quantity": 1 },
-            { "size": "xl", "quantity": 1 },
-            { "size": "xxl", "quantity": 1 }
+            {
+              "size": "xs",
+              "quantity": 1
+            },
+            {
+              "size": "s",
+              "quantity": 1
+            },
+            {
+              "size": "m",
+              "quantity": 1
+            },
+            {
+              "size": "l",
+              "quantity": 1
+            },
+            {
+              "size": "xl",
+              "quantity": 1
+            },
+            {
+              "size": "xxl",
+              "quantity": 1
+            }
           ],
           "quantity": 6
         }
@@ -1537,7 +1638,10 @@
       "description": "Fun and comfortable graphic T-shirt for Men.",
       "category": "men's clothing",
       "image": "https://images.pexels.com/photos/4101142/pexels-photo-4101142.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "rating": { "rate": 4.3, "count": 110 },
+      "rating": {
+        "rate": 4.3,
+        "count": 110
+      },
       "id": "trs9"
     },
     {
@@ -1550,13 +1654,34 @@
           "fabric": "denim",
           "style": "casual",
           "size": [
-            { "size": "xs", "quantity": 1 },
-            { "size": "s", "quantity": 1 },
-            { "size": "m", "quantity": 1 },
-            { "size": "l", "quantity": 1 },
-            { "size": "xl", "quantity": 1 },
-            { "size": "xxl", "quantity": 1 },
-            { "size": "xxxl", "quantity": 1 }
+            {
+              "size": "xs",
+              "quantity": 1
+            },
+            {
+              "size": "s",
+              "quantity": 1
+            },
+            {
+              "size": "m",
+              "quantity": 1
+            },
+            {
+              "size": "l",
+              "quantity": 1
+            },
+            {
+              "size": "xl",
+              "quantity": 1
+            },
+            {
+              "size": "xxl",
+              "quantity": 1
+            },
+            {
+              "size": "xxxl",
+              "quantity": 1
+            }
           ],
           "quantity": 7
         }
@@ -1564,7 +1689,10 @@
       "type": "composite",
       "description": "Stylish high-waisted jeans perfect for any occasion.",
       "image": "https://images.pexels.com/photos/5214139/pexels-photo-5214139.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "rating": { "rate": 4.6, "count": 350 },
+      "rating": {
+        "rate": 4.6,
+        "count": 350
+      },
       "id": "fffa"
     },
     {
@@ -1575,10 +1703,22 @@
         {
           "color": "blue",
           "size": [
-            { "size": "s", "quantity": 1 },
-            { "size": "m", "quantity": 1 },
-            { "size": "l", "quantity": 1 },
-            { "size": "xl", "quantity": 1 }
+            {
+              "size": "s",
+              "quantity": 1
+            },
+            {
+              "size": "m",
+              "quantity": 1
+            },
+            {
+              "size": "l",
+              "quantity": 1
+            },
+            {
+              "size": "xl",
+              "quantity": 1
+            }
           ],
           "quantity": 4,
           "season": "fall",
@@ -1591,7 +1731,10 @@
       "description": "Timeless denim jacket for a rugged yet stylish look.",
       "category": "men's clothing",
       "image": "https://images.pexels.com/photos/2229712/pexels-photo-2229712.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "rating": { "rate": 4.7, "count": 180 },
+      "rating": {
+        "rate": 4.7,
+        "count": 180
+      },
       "id": "fffb"
     },
     {
@@ -1602,10 +1745,22 @@
         {
           "color": "multicolor",
           "size": [
-            { "size": "xs", "quantity": 1 },
-            { "size": "s", "quantity": 1 },
-            { "size": "m", "quantity": 1 },
-            { "size": "l", "quantity": 1 }
+            {
+              "size": "xs",
+              "quantity": 1
+            },
+            {
+              "size": "s",
+              "quantity": 1
+            },
+            {
+              "size": "m",
+              "quantity": 1
+            },
+            {
+              "size": "l",
+              "quantity": 1
+            }
           ],
           "quantity": 4,
           "season": "summer",
@@ -1617,8 +1772,11 @@
       "type": "composite",
       "description": "Light and breezy floral dress perfect for summer days.",
       "category": "women's clothing",
-      "image": "https://images.pexels.com/photos/3731256/pexels-photo-3731256.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "rating": { "rate": 4.6, "count": 210 },
+      "image": "https://cdn.pixabay.com/photo/2016/11/19/17/45/woman-1840538_1280.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 210
+      },
       "id": "fffc"
     },
     {
@@ -1638,7 +1796,10 @@
       "description": "Durable and spacious backpack for everyday use.",
       "category": "women's clothing",
       "image": "https://images.pexels.com/photos/2905238/pexels-photo-2905238.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "rating": { "rate": 4.5, "count": 150 },
+      "rating": {
+        "rate": 4.5,
+        "count": 150
+      },
       "id": "fffd"
     },
     {
@@ -1649,10 +1810,22 @@
         {
           "color": "gray",
           "size": [
-            { "size": "40", "quantity": 1 },
-            { "size": "41", "quantity": 1 },
-            { "size": "42", "quantity": 1 },
-            { "size": "43", "quantity": 1 }
+            {
+              "size": "40",
+              "quantity": 1
+            },
+            {
+              "size": "41",
+              "quantity": 1
+            },
+            {
+              "size": "42",
+              "quantity": 1
+            },
+            {
+              "size": "43",
+              "quantity": 1
+            }
           ],
           "quantity": 4,
           "season": "all-season",
@@ -1664,7 +1837,10 @@
       "description": "Comfortable and lightweight running shoes for men.",
       "category": "men's clothing",
       "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "rating": { "rate": 4.8, "count": 250 },
+      "rating": {
+        "rate": 4.8,
+        "count": 250
+      },
       "id": "fffe"
     },
     {
@@ -1683,7 +1859,10 @@
       "description": "Elegant leather handbag for a sophisticated look.",
       "category": "women's clothing",
       "image": "https://images.pexels.com/photos/934070/pexels-photo-934070.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "rating": { "rate": 4.7, "count": 190 },
+      "rating": {
+        "rate": 4.7,
+        "count": 190
+      },
       "id": "ffff"
     },
     {
@@ -1694,9 +1873,18 @@
         {
           "color": "navy",
           "size": [
-            { "size": "m", "quantity": 1 },
-            { "size": "l", "quantity": 1 },
-            { "size": "xl", "quantity": 1 }
+            {
+              "size": "m",
+              "quantity": 1
+            },
+            {
+              "size": "l",
+              "quantity": 1
+            },
+            {
+              "size": "xl",
+              "quantity": 1
+            }
           ],
           "quantity": 3,
           "season": "winter",
@@ -1709,7 +1897,10 @@
       "description": "Warm and stylish wool coat for the winter season.",
       "category": "men's clothing",
       "image": "https://images.pexels.com/photos/1643025/pexels-photo-1643025.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "rating": { "rate": 4.9, "count": 300 },
+      "rating": {
+        "rate": 4.9,
+        "count": 300
+      },
       "id": "fffg"
     },
     {
@@ -1720,9 +1911,18 @@
         {
           "color": "white",
           "size": [
-            { "size": "36", "quantity": 1 },
-            { "size": "37", "quantity": 1 },
-            { "size": "38", "quantity": 1 }
+            {
+              "size": "36",
+              "quantity": 1
+            },
+            {
+              "size": "37",
+              "quantity": 1
+            },
+            {
+              "size": "38",
+              "quantity": 1
+            }
           ],
           "quantity": 3,
           "season": "all-season",
@@ -1734,7 +1934,10 @@
       "description": "Comfortable and stylish sneakers for women.",
       "category": "women's clothing",
       "image": "https://images.pexels.com/photos/2529146/pexels-photo-2529146.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "rating": { "rate": 4.6, "count": 200 },
+      "rating": {
+        "rate": 4.6,
+        "count": 200
+      },
       "id": "fffh"
     },
     {
@@ -1745,9 +1948,18 @@
         {
           "color": "navy",
           "size": [
-            { "size": "s", "quantity": 1 },
-            { "size": "m", "quantity": 1 },
-            { "size": "l", "quantity": 1 }
+            {
+              "size": "s",
+              "quantity": 1
+            },
+            {
+              "size": "m",
+              "quantity": 1
+            },
+            {
+              "size": "l",
+              "quantity": 1
+            }
           ],
           "quantity": 3,
           "season": "summer",
@@ -1760,7 +1972,10 @@
       "description": "Classic polo shirt for a smart casual look.",
       "category": "men's clothing",
       "image": "https://images.pexels.com/photos/769733/pexels-photo-769733.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "rating": { "rate": 4.5, "count": 170 },
+      "rating": {
+        "rate": 4.5,
+        "count": 170
+      },
       "id": "fffi"
     },
     {
@@ -1780,7 +1995,10 @@
       "description": "Soft and warm wool scarf for the winter season.",
       "category": "women's clothing",
       "image": "https://images.pexels.com/photos/2120584/pexels-photo-2120584.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "rating": { "rate": 4.4, "count": 140 },
+      "rating": {
+        "rate": 4.4,
+        "count": 140
+      },
       "id": "fffj"
     },
     {
@@ -1799,7 +2017,10 @@
       "description": "Classic leather belt for a polished look.",
       "category": "men's clothing",
       "image": "https://images.pexels.com/photos/934070/pexels-photo-934070.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "rating": { "rate": 4.3, "count": 130 },
+      "rating": {
+        "rate": 4.3,
+        "count": 130
+      },
       "id": "fffk"
     },
     {
@@ -1819,7 +2040,10 @@
       "description": "Premium wireless headphones with active noise cancellation for an immersive listening experience.",
       "category": "electronics",
       "image": "https://images.pexels.com/photos/1649771/pexels-photo-1649771.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "rating": { "rate": 4.8, "count": 300 },
+      "rating": {
+        "rate": 4.8,
+        "count": 300
+      },
       "id": "fffl"
     },
     {
@@ -1839,7 +2063,10 @@
       "description": "Stay connected and track your fitness with this advanced smartwatch.",
       "category": "electronics",
       "image": "https://images.pexels.com/photos/437037/pexels-photo-437037.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "rating": { "rate": 4.7, "count": 250 },
+      "rating": {
+        "rate": 4.7,
+        "count": 250
+      },
       "id": "fffm"
     },
     {
@@ -1859,7 +2086,10 @@
       "description": "Compact and powerful Bluetooth speaker for music on the go.",
       "category": "electronics",
       "image": "https://images.pexels.com/photos/1646704/pexels-photo-1646704.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "rating": { "rate": 4.6, "count": 200 },
+      "rating": {
+        "rate": 4.6,
+        "count": 200
+      },
       "id": "fffn"
     },
     {
@@ -1879,7 +2109,10 @@
       "description": "Experience stunning visuals with this 4K Ultra HD Smart TV.",
       "category": "electronics",
       "image": "https://images.pexels.com/photos/5721908/pexels-photo-5721908.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "rating": { "rate": 4.9, "count": 400 },
+      "rating": {
+        "rate": 4.9,
+        "count": 400
+      },
       "id": "fffo"
     },
     {
@@ -1898,7 +2131,10 @@
       "description": "High-performance gaming laptop for the ultimate gaming experience.",
       "category": "electronics",
       "image": "https://images.pexels.com/photos/2047905/pexels-photo-2047905.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "rating": { "rate": 4.8, "count": 350 },
+      "rating": {
+        "rate": 4.8,
+        "count": 350
+      },
       "id": "fffp"
     },
     {
@@ -1917,7 +2153,10 @@
       "description": "Elegant gold-plated necklace for a sophisticated look.",
       "category": "jewelry",
       "image": "https://images.pexels.com/photos/3266700/pexels-photo-3266700.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "rating": { "rate": 4.6, "count": 180 },
+      "rating": {
+        "rate": 4.6,
+        "count": 180
+      },
       "id": "fffq"
     },
     {
@@ -1936,10 +2175,12 @@
       "description": "Classic silver hoop earrings for everyday wear.",
       "category": "jewelry",
       "image": "https://images.pexels.com/photos/3266703/pexels-photo-3266703.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "rating": { "rate": 4.5, "count": 150 },
+      "rating": {
+        "rate": 4.5,
+        "count": 150
+      },
       "id": "fffr"
     },
-
     {
       "productId": 28,
       "title": "Diamond Engagement Ring",
