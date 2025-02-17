@@ -2008,12 +2008,26 @@
       "properties": [
         {
           "color": "brown",
-          "quantity": 1,
+          "size": [
+            {
+              "size": "38",
+              "quantity": 1
+            },
+            {
+              "size": "40",
+              "quantity": 1
+            },
+            {
+              "size": "42",
+              "quantity": 1
+            }
+          ],
+          "quantity": 3,
           "material": "genuine leather",
           "style": "formal"
         }
       ],
-      "type": "simple",
+      "type": "composite",
       "description": "Classic leather belt for a polished look.",
       "category": "men's clothing",
       "image": "https://images.pexels.com/photos/934070/pexels-photo-934070.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -2055,7 +2069,11 @@
           "color": "silver",
           "quantity": 1,
           "batteryLife": "7 days",
-          "features": ["heart rate monitor", "GPS", "water-resistant"],
+          "features": [
+            "heart rate monitor",
+            "GPS",
+            "water-resistant"
+          ],
           "style": "sport"
         }
       ],
@@ -2101,7 +2119,11 @@
           "color": "black",
           "quantity": 1,
           "screenSize": "55 inches",
-          "features": ["4K resolution", "HDR", "Smart TV"],
+          "features": [
+            "4K resolution",
+            "HDR",
+            "Smart TV"
+          ],
           "style": "home entertainment"
         }
       ],
@@ -2123,7 +2145,12 @@
         {
           "color": "gray",
           "quantity": 1,
-          "specs": ["Intel i7", "16GB RAM", "1TB SSD", "NVIDIA RTX 3060"],
+          "specs": [
+            "Intel i7",
+            "16GB RAM",
+            "1TB SSD",
+            "NVIDIA RTX 3060"
+          ],
           "style": "gaming"
         }
       ],
@@ -2249,5 +2276,7 @@
     }
   ],
   "sales": [],
-  "carts": []
+  "carts": [
+    
+  ]
 }
